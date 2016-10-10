@@ -1,1 +1,1 @@
-# Coding Conventions
+# Coding
