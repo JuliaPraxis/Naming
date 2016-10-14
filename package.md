@@ -1,13 +1,5 @@
 # Naming Packages and Modules
 
-- Use titlecase
-  - :ok: CategoryTheory
-  - :x:  categorytheory, categoryTheory
-
-- Do not use "Julia" in the package name
-  - :ok: CategoryTheory
-  - :x:  CategoryTheoryForJulia
-
 - Prefer clarity to brevity  
   - :ok: VectorArithmetic
   - :x:  VecArith
@@ -24,6 +16,10 @@
   - :ok: ProjectiveReals
   - :x:  ProjectiveReal
 
+- Use titlecase
+  - :ok: CategoryTheory
+  - :x:  categorytheory, categoryTheory
+
 - Use acronyms only when there is no chance of confusion
   - :ok: ParseHTML, GraphModellingLanguage
   - :x: ParseHypertextMarkupLanguage, GML
@@ -36,6 +32,9 @@
   - :ok: ~~HtmlParser, HtmlLinkChecker~~
   - :x:  ~~HTMLParser, HTMLLinkChecker~~
 
+- Do not use "Julia" in the package name
+  - :ok: CategoryTheory
+  - :x:  CategoryTheoryForJulia
 
 ------  
     
