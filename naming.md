@@ -22,9 +22,10 @@
 ## Examples
 
 - Using titlecase (no word separators)
-  - :t: Space, SpaceTime
+  - :heavy-check-mark: Space, SpaceTime
 
 - Using lowercase (word separators)
+  - build_robot
   - build_robot
   
 - Prefer clarity to brevity  
