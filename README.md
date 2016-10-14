@@ -9,6 +9,9 @@
   
   
 [Naming Functions](https://github.com/JuliaPraxis/Style/blob/master/function.md)  
+    
+   
+[Naming Variables](https://github.com/JuliaPraxis/Style/blob/master/variable.md)  
   
   
 
