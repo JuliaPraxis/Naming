@@ -7,5 +7,5 @@
 
 [Naming Types](https://github.com/JuliaPraxis/Style/blob/master/type.md)  
 
-
+----
 _click above to view_
