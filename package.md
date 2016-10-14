@@ -1,0 +1,30 @@
+# Naming Packages
+
+- Prefer clarity to brevity  
+  - :thumbsup: VectorArithmetic
+  - :thumbsdown:  VecArith
+  
+- Prefer specificity to generality  
+  - :thumbsup: VectorArithmetic
+  - :thumbsdown:  VectorProcessing
+
+- Prefer communication to jargon  
+  - :thumbsup: ColorVision
+  - :thumbsdown:  TristimulusEncoding
+
+- Prefer words to acronyms when acronym may confuse
+  - :thumbsup: GraphModellingLanguage, ParseHTML
+  - :thumbsdown:  GML, ParseHypertextMarkupLanguage
+
+- Do not use "Julia" in the package name
+  - :thumbsup: CategoryTheory
+  - :thumbsdown:  CategoryTheoryForJulia
+
+- Use titlecased names  
+  - :thumbsup: CategoryTheory
+  - :thumbsdown:  categoryTheory
+
+------  
+    
+Please see [the manual](http://docs.julialang.org/en/latest/manual/packages/#guidelines-for-naming-a-package).
+
