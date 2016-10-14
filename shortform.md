@@ -2,10 +2,9 @@
 
 meaning|term
 -----|-------
-database | db
+message | msg
 |
-absolute | abs 
-relative | rel 
+database | db
 |
 error | err 
 tolerance | tol 
@@ -13,12 +12,11 @@ tolerance | tol
 forward | fwd 
 reverse | rev 
 |
-filter | filt
-linear | lin
-|
 coefficient | coef
-factor | fact
 polynomial | poly
+|
+object | obj
+representation | rep
 |
 vector | vec
 matrix | mat 
@@ -31,6 +29,10 @@ maximum | max
 positive | pos
 negative | neg
 nonzero | nz 
+|
+linear | lin
+absolute | abs 
+relative | rel 
 |
 value | val 
 result | res
@@ -48,9 +50,4 @@ memory | mem
 immediate | imm
 pointer | ptr
 reference | ref 
-|
-object | obj
-representation | rep
-alternate | alt
-message | msg
 |
