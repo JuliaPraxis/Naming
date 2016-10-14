@@ -43,13 +43,13 @@ index | idx
 character | chr
 string | str
 |
-initialize | init
-calculate | calc
-alternate | alt
-|
 memory | mem
 pointer | ptr
 reference | ref 
+|
+initialize | init
+calculate | calc
+alternate | alt
 |
 |
 database | db
