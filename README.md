@@ -16,7 +16,7 @@
 [Variables](https://github.com/JuliaPraxis/Naming/blob/master/variable.md)  
   
   
-# special words
+# abbreviations
 
 [Abbreviations](https://github.com/JuliaPraxis/Naming/blob/master/shortform.md)
 
