@@ -22,10 +22,9 @@
 ## Examples
 
 - Using titlecase (no word separators)
-  - :heavy-check-mark: Space, SpaceTime
+  - :heavy_check_mark: Space, SpaceTime
 
 - Using lowercase (word separators)
-  - build_robot
   - build_robot
   
 - Prefer clarity to brevity  
@@ -49,11 +48,11 @@
   - :x:  ParseHypertextMarkupLanguage, tle
 
 - Prefer plural to singular when packaging a type
-  - :ok: Robots
+  - :heavy_check_mark: Robots
   - :x:  Robot
 
 - Prefer singular to plural when defining a type
-  - :ok: Robot
+  - :heavy_check_mark: Robot
   - :x:  Robots
 
 - Prefer initial acronyms in uppercase then camelcase:
