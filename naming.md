@@ -49,7 +49,8 @@
   - :ok: Robot
   - :x:  Robots
 
-- Write initial acronyms in uppercase then use camelcase:
+- For package, module or type names with an initial acronym  
+  write the acronym in uppercase then use camelcase:
   - :ok:  CSSscript, HTMLlinkChecker
   - :x:  CSSScript, HTMLLinkChecker
  
