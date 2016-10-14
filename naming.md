@@ -55,7 +55,9 @@
   - :x:  CSSScript, HTMLBodyValidator
   
 ------
-Some [abbreviations](https://github.com/JuliaPraxis/Naming/blob/master/shortform.md) are recommended.
+  
+There is a table of recommended [abbreviations](https://github.com/JuliaPraxis/Naming/blob/master/shortform.md).
+  
 ------  
     
 Please see the manual on [Package Names](http://docs.julialang.org/en/latest/manual/packages/#guidelines-for-naming-a-package)
