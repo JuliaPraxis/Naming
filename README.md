@@ -16,9 +16,9 @@
 [Variables](https://github.com/JuliaPraxis/Naming/blob/master/variable.md)  
   
   
-# abbreviations
+# short forms
 
-[Short Forms](https://github.com/JuliaPraxis/Naming/blob/master/shortform.md)
+[abbreviate](https://github.com/JuliaPraxis/Naming/blob/master/shortform.md)
 
 ----
 _click above to view_
