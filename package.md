@@ -21,7 +21,7 @@
   - :thumbsup: ColorVision
   - :thumbsdown:  TristimulusEncoding
 
-- Prefer plural to singular packaging a type
+- Prefer plural to singular when packaging a type
   - :thumbsup: ProjectiveReals
   - :thumbsdown:  ProjectiveReal
 
