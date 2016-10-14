@@ -36,30 +36,30 @@
   - :x:  VectorProcessing, heat_building
 
 - Prefer communication to jargon  
-  - :thumbsup: ColorVision
+  - :ok: ColorVision
   - :x:  TristimulusEncoding
 
 - Be consistent
-  - :thumbsup: get_direction, get_angle
+  - :ok: get_direction, get_angle
   - :x: get_direction, derive_angle
   
 - Use acronyms only when there is no chance of confusion
-  - :thumbsup: ParseHTML, two_line_element
-  - :thumbsdown:  ParseHypertextMarkupLanguage, tle
+  - :ok: ParseHTML, two_line_element
+  - :x:  ParseHypertextMarkupLanguage, tle
 
 - Prefer plural to singular when packaging a type
-  - :thumbsup: Robots
-  - :thumbsdown:  Robot
+  - :ok: Robots
+  - :x:  Robot
 
 - Prefer singular to plural when defining a type
-  - :thumbsup: Robot
-  - :thumbsdown:  Robots
+  - :ok: Robot
+  - :x:  Robots
 
 - Prefer initial acronyms in uppercase then camelcase:
-  - :thumbsup: CSSscript, HTMLlinkChecker
-  - :thumbsdown:  CSSScript, HTMLLinkChecker
-  - :thumbsup: ~~CssScript, HtmlLinkChecker~~
-  - :thumbsdown:  ~~CSSScript, HTMLlinkChecker~~
+  - :ok: CSSscript, HTMLlinkChecker
+  - :x:  CSSScript, HTMLLinkChecker
+  - :ok: ~~CssScript, HtmlLinkChecker~~
+  - :x:  ~~CSSScript, HTMLlinkChecker~~
 
 
 ------  
