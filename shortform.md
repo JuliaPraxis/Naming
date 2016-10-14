@@ -2,9 +2,8 @@
 
 meaning|term
 -----|-------
-message | msg
-|
-database | db
+absolute | abs 
+relative | rel 
 |
 error | err 
 tolerance | tol 
@@ -30,10 +29,6 @@ positive | pos
 negative | neg
 nonzero | nz 
 |
-linear | lin
-absolute | abs 
-relative | rel 
-|
 value | val 
 result | res
 temporary | tmp
@@ -50,4 +45,11 @@ memory | mem
 immediate | imm
 pointer | ptr
 reference | ref 
+|
+|
+linear | lin
+|
+message | msg
+|
+database | db
 |
