@@ -1,6 +1,6 @@
 # Shortened Forms 
 
-word|term
+meaning|term
 -----|-------
 database | db
 |
@@ -13,7 +13,11 @@ tolerance | tol
 forward | fwd 
 reverse | rev 
 |
+filter | filt
 linear | lin
+|
+coefficient | coef
+factor | fact
 polynomial | poly
 |
 vector | vec
