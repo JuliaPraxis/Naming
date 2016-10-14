@@ -1,6 +1,6 @@
 # Word Choice
 
-prefer | over      | when you are referencing
+prefer | over      | when considering
 -------|-----------|------------------------------------------
 | |
 method | algorithm | an implementation of the algorithm
