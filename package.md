@@ -1,44 +1,42 @@
 # Naming Packages and Modules
 
-
 - Use titlecase
-  - :thumbsup: CategoryTheory
-  - :thumbsdown:  categorytheory, categoryTheory
+  - :ok: CategoryTheory
+  - :x:  categorytheory, categoryTheory
 
 - Do not use "Julia" in the package name
-  - :thumbsup: CategoryTheory
-  - :thumbsdown:  CategoryTheoryForJulia
+  - :ok: CategoryTheory
+  - :x:  CategoryTheoryForJulia
 
 - Prefer clarity to brevity  
-  - :thumbsup: VectorArithmetic
-  - :thumbsdown:  VecArith
+  - :ok: VectorArithmetic
+  - :x:  VecArith
   
 - Prefer specificity to generality  
-  - :thumbsup: VectorArithmetic
-  - :thumbsdown:  VectorProcessing
+  - :ok: VectorArithmetic
+  - :x:  VectorProcessing
 
 - Prefer communication to jargon  
-  - :thumbsup: ColorVision
-  - :thumbsdown:  TristimulusEncoding
+  - :ok: ColorVision
+  - :x:  TristimulusEncoding
 
 - Prefer plural to singular when packaging a type
-  - :thumbsup: ProjectiveReals
-  - :thumbsdown:  ProjectiveReal
+  - :ok: ProjectiveReals
+  - :x:  ProjectiveReal
 
 - Use acronyms only when there is no chance of confusion
-  - :thumbsup: ParseHTML, GraphModellingLanguage
-  - :thumbsdown: ParseHypertextMarkupLanguage, GML
+  - :ok: ParseHTML, GraphModellingLanguage
+  - :x: ParseHypertextMarkupLanguage, GML
 
 - Prefer initial acronyms in uppercase then camelcase:
-  - :thumbsup: HTMLparser, HTMLlinkChecker
-  - :thumbsdown:  HTMLParser, HTMLLinkChecker
+  - :ok: HTMLparser, HTMLlinkChecker
+  - :x:  HTMLParser, HTMLLinkChecker
 
 - ~~Prefer initial acronyms in titlecase~~
-  - :thumbsup: ~~HtmlParser, HtmlLinkChecker~~
-  - :thumbsdown:  ~~HTMLParser, HTMLLinkChecker~~
+  - :ok: ~~HtmlParser, HtmlLinkChecker~~
+  - :x:  ~~HTMLParser, HTMLLinkChecker~~
 
 
 ------  
     
 Please see [the manual](http://docs.julialang.org/en/latest/manual/packages/#guidelines-for-naming-a-package).
-
