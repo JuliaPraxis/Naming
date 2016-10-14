@@ -2,9 +2,7 @@
 
 word|term
 -----|-------
-positive | pos
-negative | neg
-nonzero | nz 
+database | db
 |
 absolute | abs 
 relative | rel 
@@ -12,21 +10,23 @@ relative | rel
 error | err 
 tolerance | tol 
 | 
-minmum | min
-middle | mid
-maximum | max 
-|
 forward | fwd 
 reverse | rev 
+|
+linear | lin
+linear algebra | linalg 
 |
 vector | vec
 matrix | mat 
 array | arr 
 | 
-memory | mem
-immediate | imm
-pointer | ptr
-reference | ref 
+minmum | min
+middle | mid
+maximum | max 
+|
+positive | pos
+negative | neg
+nonzero | nz 
 |
 value | val 
 result | res
@@ -36,15 +36,17 @@ index | idx
 character | chr
 string | str
 |
+initialize | init
+calculate | calc
+alternate | alt
+|
+memory | mem
+immediate | imm
+pointer | ptr
+reference | ref 
+|
 object | obj
 representation | rep
 alternate | alt
 message | msg
 |
-initialize | init
-calculate | calc
-alternate | alt
-|
-linear | lin
-linear algebra | linalg 
-database | db
