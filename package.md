@@ -1,9 +1,9 @@
 # Naming Packages
 
 
-- Use titlecased names  
+- Use titlecase
   - :thumbsup: CategoryTheory
-  - :thumbsdown:  categoryTheory
+  - :thumbsdown:  categoryTheory, categorytheory
 
 - Do not use "Julia" in the package name
   - :thumbsup: CategoryTheory
