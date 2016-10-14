@@ -33,6 +33,10 @@
   - :thumbsup: HTMLparser, HTMLlinkChecker
   - :thumbsdown:  HTMLParser, HTMLLinkChecker
 
+- ~~Prefer initial acronyms in titlecase~~
+  - :thumbsup: ~~HtmlParser, HtmlLinkChecker~~
+  - :thumbsdown:  ~~HTMLParser, HTMLLinkChecker~~
+
 
 ------  
     
