@@ -1,5 +1,9 @@
 # Naming Packages and Modules
 
+- Use titlecase
+  - :ok: CategoryTheory
+  - :x:  categorytheory, categoryTheory
+  
 - Prefer clarity to brevity  
   - :ok: VectorArithmetic
   - :x:  VecArith
@@ -15,10 +19,6 @@
 - Prefer plural to singular when packaging a type
   - :ok: ProjectiveReals
   - :x:  ProjectiveReal
-
-- Use titlecase
-  - :ok: CategoryTheory
-  - :x:  categorytheory, categoryTheory
 
 - Use acronyms only when there is no chance of confusion
   - :ok: ParseHTML, GraphModellingLanguage
