@@ -1,24 +1,24 @@
 # Naming Functions
 
 - Use lowercase with underscores
-  - :thumbsup: scale, affine_transformation
-  - :thumbsdown:  Scale, affinetransformation
+  - :ok: scale, affine_transformation
+  - :x:  Scale, affinetransformation
 
 - Prefer clarity to brevity  
-  - :thumbsup: splice_dna_strand
-  - :thumbsdown:  splice_strand
+  - :ok: splice_dna_strand
+  - :x:  splice_strand
   
 - Prefer specificity to generality  
-  - :thumbsup: heat
-  - :thumbsdown:  heat_building
+  - :ok: heat
+  - :x:  heat_building
 
 - Prefer words to acronyms or abbreviations when they may confuse
-  - :thumbsup: two_line_elements
-  - :thumbsdown: tle  
+  - :ok: two_line_elements
+  - :x: tle  
 
 - Be consistent
-  - :thumbsup: get_direction, get_angle
-  - :thumbsdown: get_direction, derive_angle
+  - :ok: get_direction, get_angle
+  - :x: get_direction, derive_angle
   
 -----
 
