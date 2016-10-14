@@ -3,7 +3,7 @@
 
 - Prefer clarity to brevity  
   - :ok:  VectorArithmetic, string_replace
-  - :x: VecArith, string_rep
+  - :x: VecArith, string_repl
 
 - Prefer specificity to generality  
   - :ok: VectorArithmetic, heat_it
