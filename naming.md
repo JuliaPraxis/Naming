@@ -22,13 +22,13 @@
 ## Examples
 
 - Using titlecase (no word separators)
-  - :heavy_check_mark: Space, SpaceTime
+  - Space, SpaceTime
 
 - Using lowercase (word separators)
   - build_robot
   
 - Prefer clarity to brevity  
-  - :ok: VectorArithmetic, alices_resturant
+  - :heavy_check_mark:  VectorArithmetic, alices_resturant
   - :x: VecArith, resturant
   
 - Prefer specificity to generality  
@@ -36,15 +36,15 @@
   - :x:  VectorProcessing, heat_building
 
 - Prefer communication to jargon  
-  - :ok: ColorVision
+  - :heavy_check_mark:  ColorVision
   - :x:  TristimulusEncoding
 
 - Be consistent
-  - :ok: get_direction, get_angle
+  - :heavy_check_mark:  get_direction, get_angle
   - :x: get_direction, derive_angle
   
 - Use acronyms only when there is no chance of confusion
-  - :ok: ParseHTML, two_line_element
+  - :heavy_check_mark:  ParseHTML, two_line_element
   - :x:  ParseHypertextMarkupLanguage, tle
 
 - Prefer plural to singular when packaging a type
@@ -56,9 +56,9 @@
   - :x:  Robots
 
 - Prefer initial acronyms in uppercase then camelcase:
-  - :ok: CSSscript, HTMLlinkChecker
+  - :heavy_check_mark:  CSSscript, HTMLlinkChecker
   - :x:  CSSScript, HTMLLinkChecker
-  - :ok: ~~CssScript, HtmlLinkChecker~~
+  - :heavy_check_mark:  ~~CssScript, HtmlLinkChecker~~
   - :x:  ~~CSSScript, HTMLlinkChecker~~
 
 
