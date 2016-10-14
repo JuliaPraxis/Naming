@@ -1,5 +1,14 @@
 # Naming Packages
 
+
+- Use titlecased names  
+  - :thumbsup: CategoryTheory
+  - :thumbsdown:  categoryTheory
+
+- Do not use "Julia" in the package name
+  - :thumbsup: CategoryTheory
+  - :thumbsdown:  CategoryTheoryForJulia
+
 - Prefer clarity to brevity  
   - :thumbsup: VectorArithmetic
   - :thumbsdown:  VecArith
@@ -16,13 +25,6 @@
   - :thumbsup: GraphModellingLanguage, ParseHTML
   - :thumbsdown:  GML, ParseHypertextMarkupLanguage
 
-- Do not use "Julia" in the package name
-  - :thumbsup: CategoryTheory
-  - :thumbsdown:  CategoryTheoryForJulia
-
-- Use titlecased names  
-  - :thumbsup: CategoryTheory
-  - :thumbsdown:  categoryTheory
 
 ------  
     
