@@ -1,12 +1,16 @@
 
-# Naming Packages and Modules
+# Naming Guidelines
+
+- prefer clarity to brevity  
+- prefer specificity to generality  
+- prefer familiarity to jargon  
+- name packages, module and types using titlecase
+- name functions and variables using lowercase
+- name constants using uppercase
+- use __\___ as a word separator   
+- do not use "Julia" in names
 
 
-- Use titlecase
-  - :thumbsup: CategoryTheory
-  - :thumbsdown:  categorytheory, categoryTheory
-
-- Do not use "Julia" in the package name
   - :thumbsup: CategoryTheory
   - :thumbsdown:  CategoryTheoryForJulia
 
@@ -38,3 +42,34 @@
 ------  
     
 Please see [the manual](http://docs.julialang.org/en/latest/manual/packages/#guidelines-for-naming-a-package).
+
+# Naming Types
+
+
+- Use titlecase
+  - :thumbsup: Space, SpaceTime
+  - :thumbsdown:  space, spaceTime
+
+- Prefer clarity to brevity  
+  - :thumbsup: QuantumWell
+  - :thumbsdown:  QuantWell
+  
+- Prefer specificity to generality  
+  - :thumbsup: TotalOrder
+  - :thumbsdown:  Order
+
+- Prefer communication to jargon  
+  - :thumbsup: ColorSpace
+  - :thumbsdown:  ColorDescriptor
+
+- Prefer singular to plural
+  - :thumbsup: Robot
+  - :thumbsdown:  Robots
+
+- Prefer words to acronyms when acronym may confuse
+  - :thumbsup: GraphModel
+  - :thumbsdown:  GM
+
+- Prefer initial acronyms in titlecase:
+  - :thumbsup: CssScript
+  - :thumbsdown:  CSSScript
