@@ -16,7 +16,7 @@
 [Variables](https://github.com/JuliaPraxis/Naming/blob/master/variable.md)  
   
   
-# encouraged
+# specifics
 
 [short forms](https://github.com/JuliaPraxis/Naming/blob/master/shortform.md)
 
