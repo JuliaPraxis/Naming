@@ -23,36 +23,37 @@
 
 # Naming Things
 
-- Prefer plural to singular when packaging a type
-  - :ok: Robots
-  - :x:  Robot
-
-- Prefer singular to plural when defining a type
-  - :ok: Robot
-  - :x:  Robots
-
-- name packages, module and types using titlecase  
+- Name packages, module and types using titlecase  
   - :ok: Space, SpaceTime
   - :x: space, spaceTime
 
-- name functions and variables using lowercase  
+- Name functions and variables using lowercase  
   with __'\_'__ as a word separator unless words are short
   - :ok: abserr, abs_error, build_robot
   - :x: abserror, buildRobot
   
-- name constants using uppercase  
+- Name constants using uppercase  
   with __'\_'__ as a word separator almost always
   - :ok: GREEN, NEW_SOCKET
   - :x: Green, NEWSOCKET
 
-- write initial acronyms in uppercase then use camelcase:
+- Use the plural form when packaging a type
+  - :ok: Robots
+  - :x:  Robot
+
+- Use the singular form hen defining a type
+  - :ok: Robot
+  - :x:  Robots
+
+- Write initial acronyms in uppercase then use camelcase:
   - :ok:  CSSscript, HTMLlinkChecker
   - :x:  CSSScript, HTMLLinkChecker
   - :ok:  ~~CssScript, HtmlLinkChecker~~
   - :x:  ~~CSSScript, HTMLlinkChecker~~
 
-- do not use "Julia" in names
-
+- Do not use "Julia" in names
+  - :ok: Lint
+  - :x: LintJulia
 
 ------  
     
