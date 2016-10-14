@@ -20,36 +20,8 @@
 - Use acronyms only when there is no chance of confusion
   - :ok:  ParseHTML, two_line_element
   - :x:  ParseHypertextMarkupLanguage, tle
-  
-- name packages, module and types using titlecase  
 
-- name functions and variables using lowercase  
-
-- name constants using uppercase  
-
-- use __'\_'__ as a word separator
-
-- do not use "Julia" in names
-
-## Examples
-
-- Using titlecase (no word separators)
-  - Space, SpaceTime
-
-- Using lowercase (word separators)
-  - build_robot
-  
-- Prefer clarity to brevity  
-  - :ok:  VectorArithmetic, alices_resturant
-  - :x: VecArith, resturant
-  
-
-
-- Prefer communication to jargon  
-  - :ok:  ColorVision
-  - :x:  TristimulusEncoding
-
-
+# Naming Things
 
 - Prefer plural to singular when packaging a type
   - :ok: Robots
@@ -59,11 +31,27 @@
   - :ok: Robot
   - :x:  Robots
 
-- Prefer initial acronyms in uppercase then camelcase:
+- name packages, module and types using titlecase  
+  - :ok: Space, SpaceTime
+  - :x: space, spaceTime
+
+- name functions and variables using lowercase  
+  with __'\_'__ as a word separator unless words are short
+  - :ok: abserr, abs_error, build_robot
+  - :x: abserror, buildRobot
+  
+- name constants using uppercase  
+  with __'\_'__ as a word separator almost always
+  - :ok: GREEN, NEW_SOCKET
+  - :x: Green, NEWSOCKET
+
+- write initial acronyms in uppercase then use camelcase:
   - :ok:  CSSscript, HTMLlinkChecker
   - :x:  CSSScript, HTMLLinkChecker
   - :ok:  ~~CssScript, HtmlLinkChecker~~
   - :x:  ~~CSSScript, HTMLlinkChecker~~
+
+- do not use "Julia" in names
 
 
 ------  
