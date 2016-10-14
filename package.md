@@ -16,7 +16,7 @@
   - :ok: VectorArithmetic
   - :x:  VectorProcessing
 
-- Prefer communication to jargon  
+- Prefer the familiar to jargon  
   - :ok: ColorVision
   - :x:  TristimulusEncoding
 
