@@ -17,66 +17,44 @@
 
 - do not use "Julia" in names
 
+# Examples
 
-  - :thumbsup: CategoryTheory
-  - :thumbsdown:  CategoryTheoryForJulia
+- Using titlecase (no word separators)
+  - Space, SpaceTime
 
+- Using lowercase (word separators)
+  - build_robot
+  
 - Prefer clarity to brevity  
-  - :thumbsup: VectorArithmetic
-  - :thumbsdown:  VecArith
+  - :thumbsup: VectorArithmetic, alices_resturant
+  - :thumbsdown: VecArith, resturant
   
 - Prefer specificity to generality  
-  - :thumbsup: VectorArithmetic
-  - :thumbsdown:  VectorProcessing
+  - :thumbsup: VectorArithmetic, heat_it
+  - :thumbsdown:  VectorProcessing, heat_building
 
 - Prefer communication to jargon  
   - :thumbsup: ColorVision
   - :thumbsdown:  TristimulusEncoding
 
-- Prefer plural to singular when packaging a type
-  - :thumbsup: ProjectiveReals
-  - :thumbsdown:  ProjectiveReal
-
 - Use acronyms only when there is no chance of confusion
-  - :thumbsup: ParseHTML, GraphModellingLanguage
-  - :thumbsdown:  GML, ParseHypertextMarkupLanguage
+  - :thumbsup: ParseHTML, two_line_element
+  - :thumbsdown:  ParseHypertextMarkupLanguage, tle
 
-- Prefer initial acronyms in titlecase:
-  - :thumbsup: HtmlParser, HtmlLinkChecking
-  - :thumbsdown:  HTMLParser, HTMLparser
+- Prefer plural to singular when packaging a type
+  - :thumbsup: Robots
+  - :thumbsdown:  Robot
+
+- Prefer singular to plural when defining a type
+  - :thumbsup: Robot
+  - :thumbsdown:  Robots
+
+- Prefer initial acronyms in uppercase then camelcase:
+  - :thumbsup: CSSscript, HTMLlinkChecking
+  - :thumbsdown:  CSSScript, HTMLLinkChecking
 
 
 ------  
     
 Please see [the manual](http://docs.julialang.org/en/latest/manual/packages/#guidelines-for-naming-a-package).
 
-# Naming Types
-
-
-- Use titlecase
-  - :thumbsup: Space, SpaceTime
-  - :thumbsdown:  space, spaceTime
-
-- Prefer clarity to brevity  
-  - :thumbsup: QuantumWell
-  - :thumbsdown:  QuantWell
-  
-- Prefer specificity to generality  
-  - :thumbsup: TotalOrder
-  - :thumbsdown:  Order
-
-- Prefer communication to jargon  
-  - :thumbsup: ColorSpace
-  - :thumbsdown:  ColorDescriptor
-
-- Prefer singular to plural
-  - :thumbsup: Robot
-  - :thumbsdown:  Robots
-
-- Prefer words to acronyms when acronym may confuse
-  - :thumbsup: GraphModel
-  - :thumbsdown:  GM
-
-- Prefer initial acronyms in titlecase:
-  - :thumbsup: CssScript
-  - :thumbsdown:  CSSScript
