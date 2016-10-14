@@ -17,7 +17,7 @@
 
 - do not use "Julia" in names
 
-# Examples
+## Examples
 
 - Using titlecase (no word separators)
   - Space, SpaceTime
