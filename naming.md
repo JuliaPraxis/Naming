@@ -2,8 +2,8 @@
 # Naming Guidelines
 
 - Prefer clarity to brevity  
-  - :ok:  VectorArithmetic, alices_resturant
-  - :x: VecArith, resturant
+  - :ok:  VectorArithmetic, string_replace
+  - :x: VecArith, string_rep
 
 - Prefer specificity to generality  
   - :ok: VectorArithmetic, heat_it
