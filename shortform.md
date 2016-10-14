@@ -14,13 +14,13 @@ forward | fwd
 reverse | rev 
 |
 linear | lin
-linear algebra | linalg 
+polynomial | poly
 |
 vector | vec
 matrix | mat 
 array | arr 
 | 
-minmum | min
+minimum | min
 middle | mid
 maximum | max 
 |
