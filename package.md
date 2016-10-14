@@ -1,4 +1,4 @@
-# Naming Packages
+# Naming Packages and Modules
 
 
 - Use titlecase
@@ -29,9 +29,9 @@
   - :thumbsup: GraphModellingLanguage, ParseHTML
   - :thumbsdown:  GML, ParseHypertextMarkupLanguage
 
-- Write an initial acronym thus:
+- Prefer initial acronyms in titlecase:
   - :thumbsup: HtmlParser, HtmlLinkChecking
-  - :thumbsdown:  HTMLParser, HTMLparser, HTMLLinkChecking
+  - :thumbsdown:  HTMLParser, HTMLparser
 
 
 ------  
