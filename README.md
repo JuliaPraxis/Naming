@@ -2,18 +2,18 @@
 
 [Naming Guidelines](https://github.com/JuliaPraxis/Naming/blob/master/naming.md)  
 
-## Specific Examples
+## Naming Examples
 
-[Naming Packages and Modules](https://github.com/JuliaPraxis/Naming/blob/master/package.md)  
+[Packages and Modules](https://github.com/JuliaPraxis/Naming/blob/master/package.md)  
   
   
-[Naming Types](https://github.com/JuliaPraxis/Naming/blob/master/type.md)  
+[Types](https://github.com/JuliaPraxis/Naming/blob/master/type.md)  
   
   
-[Naming Functions](https://github.com/JuliaPraxis/Naming/blob/master/function.md)  
+[Functions](https://github.com/JuliaPraxis/Naming/blob/master/function.md)  
     
    
-[Naming Variables](https://github.com/JuliaPraxis/Naming/blob/master/variable.md)  
+[Variables](https://github.com/JuliaPraxis/Naming/blob/master/variable.md)  
   
   
 
