@@ -22,7 +22,7 @@
 ## Examples
 
 - Using titlecase (no word separators)
-  - :ok: Space, SpaceTime
+  - :t: Space, SpaceTime
 
 - Using lowercase (word separators)
   - build_robot
@@ -32,7 +32,7 @@
   - :x: VecArith, resturant
   
 - Prefer specificity to generality  
-  - :ok: VectorArithmetic, heat_it
+  - :heavy-check-mark: VectorArithmetic, heat_it
   - :x:  VectorProcessing, heat_building
 
 - Prefer communication to jargon  
