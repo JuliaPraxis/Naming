@@ -30,8 +30,8 @@
   - :thumbsdown:  GML, ParseHypertextMarkupLanguage
 
 - Follow an initial acronym with camelcase
-  - :thumbsup: HTMLparser, HTMLlinkChecking
-  - :thumbsdown:  HTMLParser, HTMLLinkChecking
+  - :thumbsup: HtmlParser, HtmlLinkChecking
+  - :thumbsdown:  HTMLParser, HTMLparser, HTMLLinkChecking
 
 
 ------  
