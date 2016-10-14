@@ -28,12 +28,12 @@
   - build_robot
   
 - Prefer clarity to brevity  
-  - :thumbsup: VectorArithmetic, alices_resturant
-  - :thumbsdown: VecArith, resturant
+  - VectorArithmetic, alices_resturant
+  - :x: VecArith, resturant
   
 - Prefer specificity to generality  
-  - :thumbsup: VectorArithmetic, heat_it
-  - :thumbsdown:  VectorProcessing, heat_building
+  - VectorArithmetic, heat_it
+  - :x:  VectorProcessing, heat_building
 
 - Prefer communication to jargon  
   - :thumbsup: ColorVision
