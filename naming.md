@@ -22,17 +22,17 @@
 ## Examples
 
 - Using titlecase (no word separators)
-  - Space, SpaceTime
+  - :ok: Space, SpaceTime
 
 - Using lowercase (word separators)
   - build_robot
   
 - Prefer clarity to brevity  
-  - VectorArithmetic, alices_resturant
+  - :ok: VectorArithmetic, alices_resturant
   - :x: VecArith, resturant
   
 - Prefer specificity to generality  
-  - VectorArithmetic, heat_it
+  - :ok: VectorArithmetic, heat_it
   - :x:  VectorProcessing, heat_building
 
 - Prefer communication to jargon  
