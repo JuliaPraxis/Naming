@@ -1,4 +1,4 @@
-# Abbreviations
+# Short Forms
 
 meaning|term
 -----|-------
