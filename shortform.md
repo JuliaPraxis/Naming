@@ -11,11 +11,17 @@ tolerance | tol
 forward | fwd 
 reverse | rev 
 |
-coefficient | coef
-polynomial | poly
+current | cur
+previous | prev 
 |
 object | obj
 message | msg
+|
+linear | lin
+inverse | inv
+|
+coefficient | coef
+polynomial | poly
 |
 vector | vec
 matrix | mat 
@@ -47,6 +53,4 @@ reference | ref
 |
 |
 database | db
-|
-linear | lin
 |
