@@ -28,37 +28,37 @@
   - build_robot
   
 - Prefer clarity to brevity  
-  - :heavy_check_mark:  VectorArithmetic, alices_resturant
+  - :ok:  VectorArithmetic, alices_resturant
   - :x: VecArith, resturant
   
 - Prefer specificity to generality  
-  - :heavy-check-mark: VectorArithmetic, heat_it
+  - :ok: VectorArithmetic, heat_it
   - :x:  VectorProcessing, heat_building
 
 - Prefer communication to jargon  
-  - :heavy_check_mark:  ColorVision
+  - :ok:  ColorVision
   - :x:  TristimulusEncoding
 
 - Be consistent
-  - :heavy_check_mark:  get_direction, get_angle
+  - :ok:  get_direction, get_angle
   - :x: get_direction, derive_angle
   
 - Use acronyms only when there is no chance of confusion
-  - :heavy_check_mark:  ParseHTML, two_line_element
+  - :ok:  ParseHTML, two_line_element
   - :x:  ParseHypertextMarkupLanguage, tle
 
 - Prefer plural to singular when packaging a type
-  - :heavy_check_mark: Robots
+  - :ok: Robots
   - :x:  Robot
 
 - Prefer singular to plural when defining a type
-  - :heavy_check_mark: Robot
+  - :ok: Robot
   - :x:  Robots
 
 - Prefer initial acronyms in uppercase then camelcase:
-  - :heavy_check_mark:  CSSscript, HTMLlinkChecker
+  - :ok:  CSSscript, HTMLlinkChecker
   - :x:  CSSScript, HTMLLinkChecker
-  - :heavy_check_mark:  ~~CssScript, HtmlLinkChecker~~
+  - :ok:  ~~CssScript, HtmlLinkChecker~~
   - :x:  ~~CSSScript, HTMLlinkChecker~~
 
 
