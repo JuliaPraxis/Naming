@@ -29,7 +29,7 @@
   - :thumbsup: GraphModellingLanguage, ParseHTML
   - :thumbsdown:  GML, ParseHypertextMarkupLanguage
 
-- Follow an initial acronym with camelcase
+- Write an initial acronym thus:
   - :thumbsup: HtmlParser, HtmlLinkChecking
   - :thumbsdown:  HTMLParser, HTMLparser, HTMLLinkChecking
 
