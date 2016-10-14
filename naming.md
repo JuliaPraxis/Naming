@@ -50,9 +50,9 @@
   - :x:  Robots
 
 - For package, module or type names with an initial acronym  
-  write the acronym in uppercase then use camelcase:
-  - :ok:  CSSscript, HTMLbodyValidator
-  - :x:  CSSScript, HTMLBodyValidator
+  write the acronym in uppercase then use titlecase:
+  - :ok:  CSSParser, HTMLBodyValidator
+  - :x:  CSSparser, HTMLbodyValidator
   
 ------
   
