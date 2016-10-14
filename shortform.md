@@ -1,6 +1,5 @@
 # Shortened Forms 
 
-word | term
 word|term
 -----|-------
 positive | pos
