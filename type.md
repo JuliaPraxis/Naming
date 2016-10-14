@@ -22,9 +22,9 @@
   - :ok: Robot
   - :x:  Robots
 
-- Prefer words to acronyms when acronym may confuse
-  - :ok: GraphModel
-  - :x:  GM
+- Use acronyms only when there is no chance of confusion
+  - :ok: HTMLbody, GraphModel
+  - :x:  HypertextMarkupBody, GM
 
 - For package, module or type names with an initial acronym  
   write the acronym in uppercase then use camelcase
