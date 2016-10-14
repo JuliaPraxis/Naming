@@ -3,33 +3,33 @@
 
 
 - Use titlecase
-  - :thumbsup: Space, SpaceTime
-  - :thumbsdown:  space, spaceTime
+  - :ok: Space, SpaceTime
+  - :x:  space, spaceTime
 
 - Prefer clarity to brevity  
-  - :thumbsup: QuantumWell
-  - :thumbsdown:  QuantWell
+  - :ok: QuantumWell
+  - :x:  QuantWell
   
 - Prefer specificity to generality  
-  - :thumbsup: TotalOrder
-  - :thumbsdown:  Order
+  - :ok: TotalOrder
+  - :x:  Order
 
 - Prefer communication to jargon  
-  - :thumbsup: ColorSpace
-  - :thumbsdown:  ColorDescriptor
+  - :ok: ColorSpace
+  - :x:  ColorDescriptor
 
 - Prefer singular to plural
-  - :thumbsup: Robot
-  - :thumbsdown:  Robots
+  - :ok: Robot
+  - :x:  Robots
 
 - Prefer words to acronyms when acronym may confuse
-  - :thumbsup: GraphModel
-  - :thumbsdown:  GM
+  - :ok: GraphModel
+  - :x:  GM
 
 - Prefer initial acronyms in uppercase then camelcase
-  - :thumbsup: CSSscript
-  - :thumbsdown:  CSSScript
+  - :ok: CSSscript
+  - :x:  CSSScript
 
 - ~~Prefer initial acronyms in titlecase~~
-  - :thumbsup: ~~CssScript~~
-  - :thumbsdown:  ~~CSSScript, CSSscript~~
+  - :ok: ~~CssScript~~
+  - :x:  ~~CSSScript, CSSscript~~
