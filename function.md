@@ -5,8 +5,8 @@
   - :x:  Scale, affinetransformation
 
 - Prefer clarity to brevity  
-  - :ok: splice_dna_strand
-  - :x:  splice_strand
+  - :ok: string_replace
+  - :x:  string_repl
   
 - Prefer specificity to generality  
   - :ok: heat
