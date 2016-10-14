@@ -25,8 +25,8 @@
   - :thumbsup: ProjectiveReals
   - :thumbsdown:  ProjectiveReal
 
-- Prefer words to acronyms when acronym may confuse
-  - :thumbsup: GraphModellingLanguage, ParseHTML
+- Use acronyms only when there is no chance of confusion
+  - :thumbsup: ParseHTML, GraphModellingLanguage
   - :thumbsdown:  GML, ParseHypertextMarkupLanguage
 
 - Prefer initial acronyms in titlecase:
