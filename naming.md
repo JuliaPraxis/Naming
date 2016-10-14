@@ -37,11 +37,11 @@
 
 - Prefer communication to jargon  
   - :thumbsup: ColorVision
-  - :thumbsdown:  TristimulusEncoding
+  - :x:  TristimulusEncoding
 
 - Be consistent
   - :thumbsup: get_direction, get_angle
-  - :thumbsdown: get_direction, derive_angle
+  - :x: get_direction, derive_angle
   
 - Use acronyms only when there is no chance of confusion
   - :thumbsup: ParseHTML, two_line_element
