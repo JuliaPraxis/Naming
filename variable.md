@@ -5,8 +5,8 @@
   - :x:  Scale, intrinisiccurvature
 
 - Prefer clarity to brevity  
-  - :ok: alices_resturant
-  - :x:  resturant
+  - :ok: dominant_gene
+  - :x:  dominant
   
 - Prefer specificity to generality  
   - :ok: heat
