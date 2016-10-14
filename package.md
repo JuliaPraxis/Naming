@@ -27,7 +27,7 @@
 
 - Use acronyms only when there is no chance of confusion
   - :thumbsup: ParseHTML, GraphModellingLanguage
-  - :thumbsdown:  GML, ParseHypertextMarkupLanguage
+  - :thumbsdown: ParseHypertextMarkupLanguage, GML
 
 - Prefer initial acronyms in titlecase:
   - :thumbsup: HtmlParser, HtmlLinkChecking
