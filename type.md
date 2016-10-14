@@ -19,8 +19,8 @@
   - :thumbsdown:  ColorDescriptor
 
 - Prefer singular to plural
-  - :thumbsup: ProjectiveReal
-  - :thumbsdown:  ProjectiveReals
+  - :thumbsup: Robot
+  - :thumbsdown:  Robots
 
 - Prefer words to acronyms when acronym may confuse
   - :thumbsup: GraphModel
