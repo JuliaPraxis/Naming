@@ -21,6 +21,10 @@
   - :ok:  ParseHTML, two_line_element
   - :x:  ParseHypertextMarkupLanguage, tle
 
+- Do not use "Julia" in names
+  - :ok: Lint
+  - :x: LintJulia
+
 # Naming Things
 
 - Name packages, module and types using titlecase  
@@ -37,11 +41,11 @@
   - :ok: GREEN, NEW_SOCKET
   - :x: Green, NEWSOCKET
 
-- Use the plural form when packaging a type
+- Use the plural form to package a type
   - :ok: Robots
   - :x:  Robot
 
-- Use the singular form hen defining a type
+- Use the singular form to define a type
   - :ok: Robot
   - :x:  Robots
 
@@ -50,10 +54,6 @@
   - :x:  CSSScript, HTMLLinkChecker
   - :ok:  ~~CssScript, HtmlLinkChecker~~
   - :x:  ~~CSSScript, HTMLlinkChecker~~
-
-- Do not use "Julia" in names
-  - :ok: Lint
-  - :x: LintJulia
 
 ------  
     
