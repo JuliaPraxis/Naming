@@ -21,6 +21,10 @@
   - :thumbsup: ColorVision
   - :thumbsdown:  TristimulusEncoding
 
+- Prefer plural to singular packaging a type
+  - :thumbsup: ProjectiveReals
+  - :thumbsdown:  ProjectiveReal
+
 - Prefer words to acronyms when acronym may confuse
   - :thumbsup: GraphModellingLanguage, ParseHTML
   - :thumbsdown:  GML, ParseHypertextMarkupLanguage
