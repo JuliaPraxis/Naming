@@ -1,6 +1,6 @@
 # Word Choice
 
-prefer | over      | when considering
+prefer | over      | intending
 -------|-----------|------------------------------------------
 | |
 method | algorithm | an implementation of the algorithm
