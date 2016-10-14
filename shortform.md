@@ -8,11 +8,14 @@ nonzero | nz
 |
 absolute | abs 
 relative | rel 
+|
 error | err 
 tolerance | tol 
 | 
-maximum | max 
 minmum | min
+middle | mid
+maximum | max 
+|
 forward | fwd 
 reverse | rev 
 |
@@ -20,6 +23,7 @@ vector | vec
 matrix | mat 
 array | arr 
 | 
+memory | mem
 immediate | imm
 pointer | ptr
 reference | ref 
@@ -28,21 +32,19 @@ value | val
 result | res
 temporary | tmp
 |
-memory | mem
 index | idx
 character | chr
 string | str
 |
-linear | lin
-linear algebra | linalg 
-|
 object | obj
 representation | rep
-|
-initialize | init
-calculate | calc 
-|
 alternate | alt
 message | msg
 |
+initialize | init
+calculate | calc
+alternate | alt
+|
+linear | lin
+linear algebra | linalg 
 database | db
