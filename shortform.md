@@ -15,7 +15,7 @@ coefficient | coef
 polynomial | poly
 |
 object | obj
-representation | rep
+message | msg
 |
 vector | vec
 matrix | mat 
@@ -42,14 +42,11 @@ calculate | calc
 alternate | alt
 |
 memory | mem
-immediate | imm
 pointer | ptr
 reference | ref 
 |
 |
 linear | lin
-|
-message | msg
 |
 database | db
 |
