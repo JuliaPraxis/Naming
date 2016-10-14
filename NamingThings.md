@@ -1,13 +1,20 @@
 
 # Naming Guidelines
 
-- prefer clarity to brevity  
-- prefer specificity to generality  
-- prefer familiarity to jargon  
-- name packages, module and types using titlecase
-- name functions and variables using lowercase
-- name constants using uppercase
-- use __\___ as a word separator   
+- prefer clarity to brevity   
+
+- prefer specificity to generality    
+
+- prefer familiarity to jargon   
+
+- name packages, module and types using titlecase  
+
+- name functions and variables using lowercase  
+
+- name constants using uppercase  
+
+- use __'\_'__ as a word separator
+
 - do not use "Julia" in names
 
 
