@@ -14,27 +14,27 @@ reverse | rev
 current | cur
 previous | prev 
 |
-object | obj
-message | msg
-|
 linear | lin
 inverse | inv
 |
 coefficient | coef
 polynomial | poly
 |
-vector | vec
-matrix | mat 
-array | arr 
-| 
-minimum | min
-middle | mid
-maximum | max 
+object | obj
+message | msg
 |
 positive | pos
 negative | neg
 nonzero | nz 
 |
+minimum | min
+middle | mid
+maximum | max 
+|
+vector | vec
+matrix | mat 
+array | arr 
+| 
 value | val 
 result | res
 temporary | tmp
