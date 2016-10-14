@@ -29,9 +29,9 @@
   - :thumbsup: ParseHTML, GraphModellingLanguage
   - :thumbsdown: ParseHypertextMarkupLanguage, GML
 
-- Prefer initial acronyms in titlecase:
-  - :thumbsup: HtmlParser, HtmlLinkChecking
-  - :thumbsdown:  HTMLParser, HTMLparser
+- Prefer initial acronyms in uppercase then camelcase:
+  - :thumbsup: HTMLparser, HTMLlinkChecker
+  - :thumbsdown:  HTMLParser, HTMLLinkChecker
 
 
 ------  
