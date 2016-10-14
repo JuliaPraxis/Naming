@@ -14,7 +14,7 @@
   - :ok: TotalOrder
   - :x:  Order
 
-- Prefer communication to jargon  
+- Prefer the familiar to jargon  
   - :ok: ColorSpace
   - :x:  ColorDescriptor
 
