@@ -58,5 +58,5 @@
 
 ------  
     
-Please see the manual on [Package Names}(http://docs.julialang.org/en/latest/manual/packages/#guidelines-for-naming-a-package)
+Please see the manual on [Package Names](http://docs.julialang.org/en/latest/manual/packages/#guidelines-for-naming-a-package)
 and [Function Names](http://docs.julialang.org/en/latest/manual/style-guide/#use-naming-conventions-consistent-with-julia-s-base).
