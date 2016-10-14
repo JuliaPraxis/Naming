@@ -15,3 +15,8 @@
 - Prefer words to acronyms or abbreviations when they may confuse
   - :thumbsup: two_line_elements
   - :thumbsdown: tle  
+
+- Be consistent
+  - :thumbsup: get_direction, get_angle
+  - :thumbsdown: get_direction, derive_angle
+  
