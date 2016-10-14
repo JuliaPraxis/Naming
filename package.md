@@ -24,14 +24,11 @@
   - :ok: ParseHTML, GraphModellingLanguage
   - :x: ParseHypertextMarkupLanguage, GML
 
-- Prefer initial acronyms in uppercase then camelcase:
-  - :ok: HTMLparser, HTMLlinkChecker
-  - :x:  HTMLParser, HTMLLinkChecker
-
-- ~~Prefer initial acronyms in titlecase~~
-  - :ok: ~~HtmlParser, HtmlLinkChecker~~
-  - :x:  ~~HTMLParser, HTMLLinkChecker~~
-
+- For package, module or type names with an initial acronym  
+  write the acronym in uppercase then use camelcase:
+  - :ok:  CSSscript, HTMLlinkChecker
+  - :x:  CSSScript, HTMLLinkChecker
+  
 - Do not use "Julia" in the package name
   - :ok: CategoryTheory
   - :x:  CategoryTheoryForJulia
