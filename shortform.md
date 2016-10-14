@@ -23,6 +23,9 @@ polynomial | poly
 object | obj
 message | msg
 |
+initialize | init
+calculate | calc
+|
 positive | pos
 negative | neg
 nonzero | nz 
@@ -47,10 +50,8 @@ memory | mem
 pointer | ptr
 reference | ref 
 |
-initialize | init
-calculate | calc
-alternate | alt
 |
+alternate | alt
 |
 database | db
 |
