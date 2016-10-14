@@ -7,6 +7,8 @@
 
 - prefer familiarity to jargon   
 
+- be consistent
+
 - name packages, module and types using titlecase  
 
 - name functions and variables using lowercase  
@@ -37,6 +39,10 @@
   - :thumbsup: ColorVision
   - :thumbsdown:  TristimulusEncoding
 
+- Be consistent
+  - :thumbsup: get_direction, get_angle
+  - :thumbsdown: get_direction, derive_angle
+  
 - Use acronyms only when there is no chance of confusion
   - :thumbsup: ParseHTML, two_line_element
   - :thumbsdown:  ParseHypertextMarkupLanguage, tle
