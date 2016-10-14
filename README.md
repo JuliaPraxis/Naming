@@ -2,7 +2,7 @@
 
 [Naming Guidelines](https://github.com/JuliaPraxis/Naming/blob/master/naming.md)  
 
-## Naming Examples
+## Examples
 
 [Packages and Modules](https://github.com/JuliaPraxis/Naming/blob/master/package.md)  
   
