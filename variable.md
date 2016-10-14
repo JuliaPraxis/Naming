@@ -15,3 +15,8 @@
 - Prefer words to acronyms or abbreviations when they may confuse
   - :thumbsup: milliliters
   - :thumbsdown: mls
+
+- Be consistent
+  - :thumbsup: distance_to_flag, angle_to_flag
+  - :thumbsdown: distance_to_flag, flag_angle
+  
