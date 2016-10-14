@@ -50,8 +50,10 @@
   - :thumbsdown:  Robots
 
 - Prefer initial acronyms in uppercase then camelcase:
-  - :thumbsup: CSSscript, HTMLlinkChecking
-  - :thumbsdown:  CSSScript, HTMLLinkChecking
+  - :thumbsup: ~~CssScript, HtmlLinkChecker~~
+  - :thumbsdown:  ~~CSSScript, HTMLlinkChecker~~
+  - :thumbsup: CSSscript, HTMLlinkChecker
+  - :thumbsdown:  CSSScript, HTMLLinkChecker
 
 
 ------  
