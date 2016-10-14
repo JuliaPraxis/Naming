@@ -26,6 +26,6 @@
   - :thumbsup: GraphModel
   - :thumbsdown:  GM
 
-- Prefer initial acronyms in titlecase:
-  - :thumbsup: CssScript
+- Prefer initial acronyms in uppercase then camelcase:
+  - :thumbsup: CSSscript
   - :thumbsdown:  CSSScript
