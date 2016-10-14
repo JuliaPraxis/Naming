@@ -1,22 +1,22 @@
 # Naming Variables
 
 - Use lowercase with underscores
-  - :thumbsup: scale, intrinsic_curvature
-  - :thumbsdown:  Scale, intrinisiccurvature
+  - :ok: scale, intrinsic_curvature
+  - :x:  Scale, intrinisiccurvature
 
 - Prefer clarity to brevity  
-  - :thumbsup: alices_resturant
-  - :thumbsdown:  resturant
+  - :ok: alices_resturant
+  - :x:  resturant
   
 - Prefer specificity to generality  
-  - :thumbsup: heat
-  - :thumbsdown:  energy
+  - :ok: heat
+  - :x:  energy
 
 - Prefer words to acronyms or abbreviations when they may confuse
-  - :thumbsup: milliliters
-  - :thumbsdown: mls
+  - :ok: milliliters
+  - :x: mls
 
 - Be consistent
-  - :thumbsup: distance_to_flag, angle_to_flag
-  - :thumbsdown: distance_to_flag, flag_angle
+  - :ok: distance_to_flag, angle_to_flag
+  - :x: distance_to_flag, flag_angle
   
