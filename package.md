@@ -3,7 +3,7 @@
 
 - Use titlecase
   - :thumbsup: CategoryTheory
-  - :thumbsdown:  categoryTheory, categorytheory
+  - :thumbsdown:  categorytheory, categoryTheory
 
 - Do not use "Julia" in the package name
   - :thumbsup: CategoryTheory
