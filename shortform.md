@@ -46,7 +46,7 @@ pointer | ptr
 reference | ref 
 |
 |
-linear | lin
-|
 database | db
+|
+linear | lin
 |
