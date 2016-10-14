@@ -18,7 +18,7 @@
   
 # abbreviations
 
-[Abbreviations](https://github.com/JuliaPraxis/Naming/blob/master/shortform.md)
+[Affixes](https://github.com/JuliaPraxis/Naming/blob/master/shortform.md)
 
 ----
 _click above to view_
