@@ -2,8 +2,8 @@
 # Naming Guidelines
 
 - Prefer clarity to brevity  
-  - :ok:  VectorArithmetic, string_replace
-  - :x: VecArith, string_repl
+  - :ok:  VectorArithmetic, dominant_gene
+  - :x: VecArith, dominant
 
 - Prefer specificity to generality  
   - :ok: VectorArithmetic, heat_it
