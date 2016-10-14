@@ -52,8 +52,7 @@
 - Write initial acronyms in uppercase then use camelcase:
   - :ok:  CSSscript, HTMLlinkChecker
   - :x:  CSSScript, HTMLLinkChecker
-  - :ok:  ~~CssScript, HtmlLinkChecker~~
-  - :x:  ~~CSSScript, HTMLlinkChecker~~
+ 
 
 ------  
     
