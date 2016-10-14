@@ -1,14 +1,26 @@
 
 # Naming Guidelines
 
-- prefer clarity to brevity   
+- Prefer clarity to brevity  
+  - :ok:  VectorArithmetic, alices_resturant
+  - :x: VecArith, resturant
 
-- prefer specificity to generality    
-
+- Prefer specificity to generality  
+  - :ok: VectorArithmetic, heat_it
+  - :x:  VectorProcessing, heat_building
+  
 - prefer familiarity to jargon   
+  - :ok:  ColorVision
+  - :x:  TristimulusEncoding
 
-- be consistent
-
+- Be consistent
+  - :ok:  get_direction, get_angle
+  - :x: get_direction, derive_angle
+  
+- Use acronyms only when there is no chance of confusion
+  - :ok:  ParseHTML, two_line_element
+  - :x:  ParseHypertextMarkupLanguage, tle
+  
 - name packages, module and types using titlecase  
 
 - name functions and variables using lowercase  
@@ -31,21 +43,13 @@
   - :ok:  VectorArithmetic, alices_resturant
   - :x: VecArith, resturant
   
-- Prefer specificity to generality  
-  - :ok: VectorArithmetic, heat_it
-  - :x:  VectorProcessing, heat_building
+
 
 - Prefer communication to jargon  
   - :ok:  ColorVision
   - :x:  TristimulusEncoding
 
-- Be consistent
-  - :ok:  get_direction, get_angle
-  - :x: get_direction, derive_angle
-  
-- Use acronyms only when there is no chance of confusion
-  - :ok:  ParseHTML, two_line_element
-  - :x:  ParseHypertextMarkupLanguage, tle
+
 
 - Prefer plural to singular when packaging a type
   - :ok: Robots
