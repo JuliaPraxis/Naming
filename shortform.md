@@ -26,6 +26,7 @@ coefficient | coef
 polynomial | poly
 |
 definition | def
+expression | expr
 object | obj
 message | msg
 |
@@ -85,40 +86,41 @@ definition | def
 |
 error | err 
 evaluate | eval
-forward | fwd
+expression | expr
 |
+forward | fwd
 index | idx
 initialize | init
-inverse | inv
 |
+inverse | inv
 linear | lin
 matrix | mat 
-maximum | max
 | 
+maximum | max
 memory | mem
 message | msg
-middle | mid
 |
+middle | mid
 minimum | min
 negative | neg
-nonzero | nz
 |
+nonzero | nz
 object | obj
 pointer | ptr
-polynomial | poly
 |
+polynomial | poly
 positive | pos
 previous | prev 
-reference | ref
 | 
+reference | ref
 relative | rel 
 result | res
-reverse | rev
 | 
+reverse | rev
 string | str
 temporary | tmp
-tolerance | tol
 | 
+tolerance | tol
 value | val 
 vector | vec
 |
