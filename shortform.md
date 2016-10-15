@@ -63,9 +63,8 @@ database | db
 
 -----
 
-### Alphabetical Table
-
 &nbsp; &nbsp; 
+### Alphabetical Table
 
 meaning| term
 -----|-------
