@@ -61,11 +61,11 @@ alternate | alt
 database | db
 |
 
-#  &nbsp; 
-#  &nbsp; 
+-----
 
-### Alphabetical List
-#  &nbsp; 
+### Alphabetical Table
+
+&nbsp; &nbsp; 
 
 meaning| term
 -----|-------
