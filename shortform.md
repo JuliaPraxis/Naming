@@ -1,8 +1,10 @@
 # Short Forms
    
+#  &nbsp; 
    
-_an alphabetical listing follows_
-#   
+_an alphabetical table follows_
+#  &nbsp; 
+#  &nbsp; 
 
 meaning|term
 -----|-------
@@ -61,8 +63,11 @@ alternate | alt
 database | db
 |
 
+#  &nbsp; 
+#  &nbsp; 
 
 ### Alphabetical List
+#  &nbsp; 
 
 meaning| term
 -----|-------
@@ -114,25 +119,4 @@ tolerance | tol
 | 
 value | val 
 vector | vec
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|
