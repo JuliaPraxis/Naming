@@ -62,9 +62,9 @@ database | db
 |
 
 -----
-
 &nbsp; &nbsp; 
 ### Alphabetical Table
+&nbsp; &nbsp; 
 
 meaning| term
 -----|-------
