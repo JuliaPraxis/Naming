@@ -25,10 +25,12 @@ inverse | inv
 coefficient | coef
 polynomial | poly
 |
+definition | def
 object | obj
 message | msg
 |
 initialize | init
+evaluate | eval
 calculate | calc
 |
 positive | pos
@@ -71,15 +73,18 @@ meaning| term
 |
 absolute | abs 
 alternate | alt
-array | arr 
-calculate | calc
+array | arr
 |
+calculate | calc
 character | chr
 coefficient | coef
-current | cur
 |
+current | cur
 database | db
+definition | def
+|
 error | err 
+evaluate | eval
 forward | fwd
 |
 index | idx
