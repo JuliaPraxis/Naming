@@ -1,9 +1,12 @@
 # Short Forms
-
+   
+   
+_an alphabetical listing follows_
 #   
 
 meaning|term
 -----|-------
+|
 absolute | abs 
 relative | rel 
 |
@@ -59,7 +62,7 @@ database | db
 |
 
 
-### Alphabetical
+### Alphabetical List
 
 meaning| term
 -----|-------
