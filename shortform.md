@@ -1,5 +1,5 @@
 # Short Forms
-&nbsp; &nbsp;   
+
 _an alphabetical table follows_
 -----
 &nbsp; &nbsp;   
