@@ -1,8 +1,8 @@
 # Short Forms
 
 _an alphabetical table follows_
+
 -----
-&nbsp; &nbsp;   
 
 meaning|term
 -----|-------
