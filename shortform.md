@@ -27,8 +27,12 @@ polynomial | poly
 |
 definition | def
 expression | expr
+|
 object | obj
 message | msg
+|
+position | pos
+direction | dir
 |
 initialize | init
 evaluate | eval
@@ -57,7 +61,7 @@ string | str
 memory | mem
 pointer | ptr
 reference | ref 
-|
+directory | dir|
 |
 alternate | alt
 |
@@ -84,43 +88,47 @@ current | cur
 database | db
 definition | def
 |
-error | err 
+direction | dir
+directory | dir
+error | err
+|
 evaluate | eval
 expression | expr
-|
 forward | fwd
+|
 index | idx
 initialize | init
-|
 inverse | inv
+|
 linear | lin
-matrix | mat 
-| 
+matrix | mat  
 maximum | max
+|
 memory | mem
 message | msg
-|
 middle | mid
+|
 minimum | min
 negative | neg
-|
 nonzero | nz
+|
 object | obj
 pointer | ptr
-|
 polynomial | poly
-positive | pos
-previous | prev 
-| 
+|
+position | pos
+positive | pos 
+previous | prev
+|
 reference | ref
-relative | rel 
+relative | rel  
 result | res
-| 
+|
 reverse | rev
-string | str
+string | str 
 temporary | tmp
-| 
+|
 tolerance | tol
-value | val 
+value | val
 vector | vec
 |
