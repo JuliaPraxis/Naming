@@ -38,7 +38,7 @@
 ## others
 
 - Prefer verb+noun to noun+(noun derived from verb)
-  - :ok: RedirectIO, SolveODE 
+  - :ok: RedirectIO, SolveODE
   - :x:  IORedirection, ODESolver
 ------  
     
