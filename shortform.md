@@ -12,7 +12,13 @@ relative | rel
 |
 error | err 
 tolerance | tol 
-| 
+|
+numerator | num
+denominator | den
+|
+real | re
+imaginary | im
+|
 forward | fwd 
 reverse | rev 
 |
@@ -88,47 +94,53 @@ current | cur
 database | db
 definition | def
 |
+denominator | den
 direction | dir
 directory | dir
-error | err
 |
+error | err
 evaluate | eval
 expression | expr
-forward | fwd
 |
+forward | fwd
+imaginary | im
 index | idx
+|
 initialize | init
 inverse | inv
-|
 linear | lin
-matrix | mat  
-maximum | max
 |
+matrix | mat
+maximum | max
 memory | mem
+|
 message | msg
 middle | mid
-|
 minimum | min
+|
 negative | neg
 nonzero | nz
+numerator | num
 |
 object | obj
 pointer | ptr
 polynomial | poly
 |
 position | pos
-positive | pos 
+positive | pos
 previous | prev
 |
+real | re
 reference | ref
-relative | rel  
+relative | rel
+|
 result | res
-|
 reverse | rev
-string | str 
-temporary | tmp
+string | str
 |
+temporary | tmp
 tolerance | tol
 value | val
+|
 vector | vec
 |
