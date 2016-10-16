@@ -61,7 +61,7 @@ string | str
 memory | mem
 pointer | ptr
 reference | ref 
-directory | dir|
+directory | dir
 |
 alternate | alt
 |
