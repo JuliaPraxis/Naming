@@ -33,14 +33,6 @@
   - :ok: CategoryTheory
   - :x:  CategoryTheoryForJulia
 
-======
-
-## others
-
-- Prefer verb+noun to noun+(noun derived from verb)
-  - :ok: RedirectIO, SolveODE
-  - :x:  IORedirection, ODESolver
-
 ------  
     
 Please see [the manual](http://docs.julialang.org/en/latest/manual/packages/#guidelines-for-naming-a-package).
