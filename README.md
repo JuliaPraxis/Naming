@@ -20,7 +20,7 @@
   
 ## specifics
 
-[short forms](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md)
+[Short Forms](https://github.com/JuliaPraxis/Naming/blob/master/ShortForms.md)
 
 ----
 _click above to view_
