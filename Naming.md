@@ -1,5 +1,5 @@
 
-# Naming Guidelines
+# Naming Advice
 
 - Prefer clarity to brevity  
   - :ok:  VectorArithmetic, dominant_gene
