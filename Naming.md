@@ -2,7 +2,7 @@
 
 - [Best Practice](https://github.com/JuliaPraxis/Naming/edit/master/Naming.md#best-practice)
 - [Our Conventions](https://github.com/JuliaPraxis/Naming/edit/master/Naming.md#our-conventions)
-- [Shortend Forms]((https://github.com/JuliaPraxis/Naming/edit/master/Naming.md#shortend-forms)
+- [Shortend Forms](https://github.com/JuliaPraxis/Naming/edit/master/Naming.md#shortend-forms)
 
 -------
 
