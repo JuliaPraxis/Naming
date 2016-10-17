@@ -4,6 +4,10 @@ _an [alphabetical table](https://github.com/JuliaPraxis/Naming/blob/master/short
 
 -----
 
+&nbsp; &nbsp; 
+### Abbreviations
+&nbsp; &nbsp;  
+
 meaning|term
 -----|-------
 |
