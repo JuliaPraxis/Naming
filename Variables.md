@@ -9,8 +9,8 @@
   - :x:  dominant
   
 - Prefer specificity to generality  
-  - :ok: heat
-  - :x:  energy
+  - :ok: heart_beat
+  - :x:  heart
 
 - Prefer words to acronyms or abbreviations when they may confuse
   - :ok: milliliters
