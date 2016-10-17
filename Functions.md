@@ -9,8 +9,8 @@
   - :x:  string_repl
   
 - Prefer specificity to generality  
-  - :ok: heat
-  - :x:  heat_building
+  - :ok: heat_building
+  - :x:  heat_it
 
 - Prefer words to acronyms or abbreviations when they may confuse
   - :ok: two_line_elements
