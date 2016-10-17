@@ -1,6 +1,5 @@
 # Choosing Names
-------
-
+----
 ## guidelines
 
 [Naming Guidelines](https://github.com/JuliaPraxis/Naming/blob/master/NamingGuidelines.md)  
