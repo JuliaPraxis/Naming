@@ -71,5 +71,5 @@
    
 ## For Reference
 
-  - [User Manual: Package Names](http://docs.julialang.org/en/latest/manual/packages/#guidelines-for-naming-a-package)
-  - [User Manual: Function Names](http://docs.julialang.org/en/latest/manual/style-guide/#use-naming-conventions-consistent-with-julia-s-base)
+  - [Package Names (User Manual)](http://docs.julialang.org/en/latest/manual/packages/#guidelines-for-naming-a-package)
+  - [Function Names (User Manual)](http://docs.julialang.org/en/latest/manual/style-guide/#use-naming-conventions-consistent-with-julia-s-base)
