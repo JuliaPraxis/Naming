@@ -18,7 +18,7 @@
   
 # specifics
 
-[short forms](https://github.com/JuliaPraxis/Naming/blob/master/shortform.md)
+[short forms](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md)
 
 ----
 _click above to view_
