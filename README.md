@@ -1,8 +1,12 @@
-# Naming
+# Choosing Names
+
+------
+
+## guidelines
 
 [Naming Guidelines](https://github.com/JuliaPraxis/Naming/blob/master/NamingGuidelines.md)  
 
-# examples
+## examples
 
 [Packages and Modules](https://github.com/JuliaPraxis/Naming/blob/master/PackagesAndModules.md)  
   
@@ -16,7 +20,7 @@
 [Variables](https://github.com/JuliaPraxis/Naming/blob/master/Variables.md)  
   
   
-# specifics
+## specifics
 
 [short forms](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md)
 
