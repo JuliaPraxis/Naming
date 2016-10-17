@@ -1,5 +1,6 @@
+# About Names
 
-# Best Practice
+## Best Practice
 
 - Prefer clarity to brevity  
   - :ok:  VectorArithmetic, dominant_gene
@@ -25,7 +26,7 @@
   - :ok:  Lint
   - :x:  LintJulia
 
-# Our Conventions
+## Our Conventions
 
 - Name packages, module and types using titlecase  
   - :ok:  Space, SpaceTime
@@ -54,7 +55,7 @@
   - :ok:  CSSParser, HTMLLinkChecker
   - :x:  CSSparser, HTMLlinkChecker
   
-# Shortend Forms
+## Shortend Forms
 
  - [Table of Abbreviations](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md)
    
