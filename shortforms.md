@@ -1,6 +1,6 @@
 # Short Forms
 
-_an alphabetical table follows_
+_an [alphabetical table](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md#alphabetical-table) follows_
 
 -----
 
