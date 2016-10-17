@@ -1,11 +1,11 @@
 # Short Forms
 
-- [Adopted Abbreviations](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md#adopted-abbreviations)
+- [Adopted Abbreviations](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md#table-of-abbreviations)
 - [Alphabetical Table](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md#alphabetical-table)
 
 -----
 &nbsp; &nbsp; 
-### Adopted Abbreviations
+### Table of Abbreviations
 &nbsp; &nbsp;  
 
 meaning|term
