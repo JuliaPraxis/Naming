@@ -3,9 +3,8 @@
 _an [alphabetical table](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md#alphabetical-table) follows_
 
 -----
-
 &nbsp; &nbsp; 
-### Abbreviations
+### Adopted Abbreviations
 &nbsp; &nbsp;  
 
 meaning|term
@@ -70,7 +69,8 @@ string | str
 |
 memory | mem
 pointer | ptr
-reference | ref 
+reference | ref
+|
 directory | dir
 |
 alternate | alt
