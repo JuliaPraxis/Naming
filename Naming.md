@@ -57,13 +57,8 @@
 # Recommended Abbreviations
 
  - [Table of Abbreviations](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md)
- - [Alphabetical Table](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md#Alphabetical)
- 
-------
-  
-
-There is a table of recommended [abbreviations](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md).
-  
+ - [Alphabetical Table](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md#alphabetical-table)
+   
 ------  
     
 Please see the manual on [Package Names](http://docs.julialang.org/en/latest/manual/packages/#guidelines-for-naming-a-package)
