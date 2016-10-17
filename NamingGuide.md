@@ -14,8 +14,8 @@
   - :x:  VecArith, dominant
 
 - Prefer specificity to generality  
-  - :ok:  VectorArithmetic, heat
-  - :x:  VectorProcessing, heat_building
+  - :ok:  VectorArithmetic
+  - :x:  VectorProcessing
   
 - prefer familiarity to jargon   
   - :ok:  ColorVision
