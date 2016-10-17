@@ -1,6 +1,7 @@
 # Short Forms
 
-_an [alphabetical table](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md#alphabetical-table) follows_
+- [Adopted Abbreviations](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md#adopted-abbreviations)
+- [Alphabetical Table](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md#alphabetical-table)
 
 -----
 &nbsp; &nbsp; 
