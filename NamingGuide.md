@@ -1,8 +1,8 @@
 # About Names
 
-- [Best Practice](https://github.com/JuliaPraxis/Naming/blob/master/Naming.md#best-practice)
-- [Our Conventions](https://github.com/JuliaPraxis/Naming/blob/master/Naming.md#our-conventions)
-- [Shortend Forms](https://github.com/JuliaPraxis/Naming/blob/master/Naming.md#shortend-forms)
+- [Best Practice](https://github.com/JuliaPraxis/Naming/blob/master/NamingGuide.md#best-practice)
+- [Our Conventions](https://github.com/JuliaPraxis/Naming/blob/master/NamingGuide.md#our-conventions)
+- [Shortend Forms](https://github.com/JuliaPraxis/Naming/blob/master/NamingGuide.md#shortend-forms)
 
 -------
 
