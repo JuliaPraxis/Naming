@@ -1,7 +1,7 @@
 # Short Forms
 
 - [Adopted Abbreviations](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md#adopted-abbreviations)
-- [Alphabetical Table](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md#alphabetical-table)
+- [Alphabetical Abbreviations](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md#alphabetical-table)
 
 -----
 &nbsp; &nbsp; 
