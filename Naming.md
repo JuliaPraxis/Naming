@@ -66,7 +66,7 @@
 - Some abbreviations appear often.  Using these forms simplifies collaboration.   
 
   - [Table of Abbreviations](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md)
-  - [Table, Alphabetically](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md#alphabetical-table)
+  - [Abbreviations Ordered Alphabetically](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md#alphabetical-table)
    
 ------  
     
