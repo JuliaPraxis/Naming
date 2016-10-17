@@ -54,10 +54,9 @@
   - :ok:  CSSParser, HTMLLinkChecker
   - :x:  CSSparser, HTMLlinkChecker
   
-# Shortened Words
+# Shortend Forms
 
  - [Table of Abbreviations](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md)
- - [Alphabetical Table](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md#alphabetical-table)
    
 ------  
     
