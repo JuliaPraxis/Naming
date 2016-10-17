@@ -3,7 +3,7 @@
 - [Best Practice](https://github.com/JuliaPraxis/Naming/blob/master/NamingGuide.md#best-practice)
 - [Our Conventions](https://github.com/JuliaPraxis/Naming/blob/master/NamingGuide.md#our-conventions)
 - [Shortend Forms](https://github.com/JuliaPraxis/Naming/blob/master/NamingGuide.md#shortend-forms)
-- [User Manual](https://github.com/JuliaPraxis/Naming/blob/master/NamingGuide.md#user-manual)
+- [Reference](https://github.com/JuliaPraxis/Naming/blob/master/NamingGuide.md#Reference)
 
 -------
 
@@ -69,7 +69,7 @@
   - [Useful Abbreviations](https://github.com/JuliaPraxis/Naming/blob/master/ShortForms.md#table-of-abbreviations)
   - [Useful Abbreviations, sorted](https://github.com/JuliaPraxis/Naming/blob/master/ShortForms.md#alphabetical-table)
    
-## User Manual
+## Reference
 
   - [Package Names](http://docs.julialang.org/en/latest/manual/packages/#guidelines-for-naming-a-package)
   - [Function Names](http://docs.julialang.org/en/latest/manual/style-guide/#use-naming-conventions-consistent-with-julia-s-base)
