@@ -63,7 +63,7 @@
   
 ## Shortend Forms
 
-- Some abbreviations appear often.  Collaboration is easier when everyone uses the same ones.  
+- Some abbreviations appear often.  Collaboration is easier when everyone uses the same ones.   
   - [Table of Abbreviations](https://github.com/JuliaPraxis/Naming/blob/master/shortforms.md)
    
 ------  
