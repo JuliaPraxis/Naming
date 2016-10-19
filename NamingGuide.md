@@ -58,9 +58,9 @@
   - :x:  Robots
 
 - For package, module or type names with an initial acronym  
-  write the acronym in uppercase then use titlecase:
-  - :ok:  CSSParser, HTMLLinkChecker
-  - :x:  CSSparser, HTMLlinkChecker
+  write the acronym in uppercase then use camelecase:
+  - :ok:  CSSparser, HTMLlinkChecker
+  - :x:  CSSParser, HTMLLinkChecker
   
 ## Shortend Forms
 
