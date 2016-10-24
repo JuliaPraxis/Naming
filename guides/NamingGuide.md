@@ -1,9 +1,9 @@
 # About Names
 
-- [Best Practice](https://github.com/JuliaPraxis/Naming/blob/master/NamingGuide.md#best-practice)
-- [Our Conventions](https://github.com/JuliaPraxis/Naming/blob/master/NamingGuide.md#our-conventions)
-- [Shortend Forms](https://github.com/JuliaPraxis/Naming/blob/master/NamingGuide.md#shortend-forms)
-- [For Reference](https://github.com/JuliaPraxis/Naming/blob/master/NamingGuide.md#for-reference)
+- [Best Practice](https://github.com/JuliaPraxis/Naming/blob/master/guides/NamingGuide.md#best-practice)
+- [Our Conventions](https://github.com/JuliaPraxis/Naming/blob/master/guides/NamingGuide.md#our-conventions)
+- [Shortend Forms](https://github.com/JuliaPraxis/Naming/blob/master/guides/NamingGuide.md#shortend-forms)
+- [For Reference](https://github.com/JuliaPraxis/Naming/blob/master/guides/NamingGuide.md#for-reference)
 
 -------
 
@@ -66,8 +66,8 @@
 
 - Some abbreviations appear often.  Using these forms simplifies collaboration.   
 
-  - [Useful Abbreviations](https://github.com/JuliaPraxis/Naming/blob/master/ShortForms.md#table-of-abbreviations)
-  - [Useful Abbreviations, sorted](https://github.com/JuliaPraxis/Naming/blob/master/ShortForms.md#alphabetical-table)
+  - [Useful Abbreviations](https://github.com/JuliaPraxis/Naming/blob/master/guides/ShortForms.md#table-of-abbreviations)
+  - [Useful Abbreviations, sorted](https://github.com/JuliaPraxis/Naming/blob/master/guides/ShortForms.md#alphabetical-table)
    
 ## For Reference
 
