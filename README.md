@@ -24,4 +24,6 @@
 
 ----
    
-<center>[questions / comments](https://gitter.im/JuliaPraxis/Naming)</center>
+[questions / comments](https://gitter.im/JuliaPraxis/Naming)
+
+----
