@@ -2,7 +2,7 @@
 ----
 ## practice
 
-[Naming Guide](https://github.com/JuliaPraxis/Naming/blob/master/NamingGuide.md)  
+[Naming Guide](https://github.com/JuliaPraxis/Naming/blob/master/guides/NamingGuide.md)  
 
 ## examples
 
