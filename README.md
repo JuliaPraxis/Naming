@@ -1,5 +1,5 @@
 # Choosing Names
-----
+
 ## practice
 
 [Naming Guide](https://github.com/JuliaPraxis/Naming/blob/master/guides/NamingGuide.md)  
