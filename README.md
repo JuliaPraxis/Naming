@@ -23,4 +23,4 @@
 [Short Forms](https://github.com/JuliaPraxis/Naming/blob/master/guides/ShortForms.md)
 
 ----
-[ask questions or make comments](https://gitter.im/JuliaPraxis/Naming)
+[ask questions](https://gitter.im/JuliaPraxis/Naming) or [make comments](https://gitter.im/JuliaPraxis/Naming)
