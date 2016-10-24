@@ -23,4 +23,5 @@
 [Short Forms](https://github.com/JuliaPraxis/Naming/blob/master/guides/ShortForms.md)
 
 ----
-_click above to view_
+_click above to view_  
+[comments](https://gitter.im/JuliaPraxis/Naming)
