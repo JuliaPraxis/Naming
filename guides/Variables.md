@@ -6,7 +6,7 @@
 
 - Use underscores to separate longer words
   - :ok: getfield, get_rounding
-  - :x:  get_field, get_rounding
+  - :x:  get_field, getrounding
 
 - Prefer clarity to brevity  
   - :ok: dominant_gene
