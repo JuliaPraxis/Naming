@@ -47,10 +47,15 @@
 ## nesting
 
 With Julia, matrices and other multidimensional arrays are store in column-major order.   
-Your code will run much faster if you iteration over indicies like this:
+Your code will run better if you iterate over multidimensional indicies like this:
 
 ```julia
 mymatrix = [ [1,2] [3,4] [5,6] [7,8] ]
+
+for index in eachindex(mymatrix)
+    mymatrix[ index ] = mymatrix[ index ] * 2
+end
+    
 ```
 
 ## unit ranges
