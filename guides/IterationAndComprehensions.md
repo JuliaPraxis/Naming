@@ -1,8 +1,8 @@
 # Naming in Iteration and Comprehensions
 
-- [Guidance](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#guidance)
-- [Best Practice](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#best-practice)
-- [Integer Ranges](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#integer-ranges)
+- [Guidance](https://github.com/JuliaPraxis/Naming/blob/master/guides/IterationAndComprehensions.md#guidance)
+- [Best Practice](https://github.com/JuliaPraxis/Naming/blob/master/guides/IterationAndComprehensions.md#best-practice)
+- [Integer Ranges](https://github.com/JuliaPraxis/Naming/blob/master/guides/IterationAndComprehensions.md#integer-ranges)
 
 -------
 
