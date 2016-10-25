@@ -1,5 +1,9 @@
 # Choosing Names
 
+Names work well when they simpilfy collaboration with one who shares your expertise and another who works in a different field.  It is much easier and quicker to explain what the function `facial_recognition` does than it would be if that function were named `facer`; and when there are many important types and functions, the potential for successful and smooth collaboration rides with the elegance and coherence of the names of things.
+
+
+
 ## practice
 
 [Naming Guide](https://github.com/JuliaPraxis/Naming/blob/master/guides/NamingGuide.md)  
