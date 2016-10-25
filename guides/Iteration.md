@@ -2,7 +2,7 @@
 
 - [Guidance](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#guidance)
 - [Best Practice](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#best-practice)
-- [With UnitRange{Int}](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#with-unitrange-{int}
+- [With UnitRange\{Int\}](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#with-unitrangeint)
 
 -------
 
