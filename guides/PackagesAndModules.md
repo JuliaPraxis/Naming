@@ -25,7 +25,7 @@
   - :x: ParseHypertextMarkupLanguage, GML
 
 - For package, module or type names with an initial acronym  
-  write the acronym in uppercase then use camelcase:
+  write the acronym in uppercase then use camelcase[1](abcd efg):
   - :ok:  CSSparser, HTMLbodyValidator
   - :x:  CSSParser, HTMLBodyValidator
   
