@@ -2,7 +2,7 @@
 
 - [Guidance](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#guidance)
 - [Best Practice](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#best-practice)
-- [With UnitRanges](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#with-unitranges)
+- [With Unit Ranges](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#with-unit-ranges)
 
 -------
 
@@ -43,7 +43,7 @@
   - :x:  for i in items
   - :x:  for z in zs
   
-## with UnitRanges
+## with unit ranges
 
 When the iteration or comprehension takes iterates over an integer range, UnitRange{&thinsp;Int&thinsp;},   
 you may prefer to use the classical iteration variable name `i`, and where nested, `j`, `k`.
