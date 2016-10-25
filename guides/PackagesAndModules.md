@@ -32,7 +32,7 @@
   write the acronym in uppercase then use camelcase&thinsp;¹
   - :ok:  CSSparser, HTMLbodyValidator
   - :x:  CSSParser, HTMLBodyValidator
-  - :microphone:&thinsp;¹ Prefer CssParser to CSSparser? Say so [here](https://gitter.im/JuliaPraxis/prefer_CssScripts).     
+  - &thinsp;¹ Prefer CssParser to CSSparser? Tell us [here](https://gitter.im/JuliaPraxis/prefer_CssScripts).     
 
 ------  
     
