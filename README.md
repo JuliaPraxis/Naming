@@ -2,7 +2,7 @@
 
 It is easier to understand the purpose of the function `facial_recognition` than one called `facer`.   
 Using good naming practices and choosing names that clarify your intent makes your software better:  
-easier to maintain, nicer for others to use and peruse, and simplifies collaborative work.  
+easier to maintain, nicer for others to use and peruse, and it smooths later collaborative work.  
 
 
 ## practice
