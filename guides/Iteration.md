@@ -4,8 +4,7 @@ Prefer names that follow this pattern:
 
 > for **an_element** in **these_elements**
 
-With simple non-nested iteration, these are good templates:  
-(use whichever more naturally expresses the work your loop)
+These are good templates, use whichever is more natural:
 
 > for **singular_term** in **plural_of_singular_term**  
 > for **singular_for_plural_term** in **plural_term**
