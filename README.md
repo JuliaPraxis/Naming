@@ -1,10 +1,10 @@
 # Choosing Names
 
+It is easier to understand what `facial_recognition` does than it is to understand what `facer` does.   
+These brief guides collect information on best practices and sound approaches using names with Julia.  
+
 Using good naming practices and choosing names that clarify your intent makes your software better:  
 easier to maintain, nicer for others to use and peruse, and it smooths later collaborative work.   
-
-It is easier to understand the purpose of `facial_recognition` than the purpose of function `facer`.   
-These brief guides collect information on best practices and sound approaches using names with Julia.  
 
 ## practice
 
