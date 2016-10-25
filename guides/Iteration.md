@@ -46,8 +46,8 @@
 ## integer ranges
 
 When the iteration or comprehension applies over an integer range,   
-a UnitRange{&thinsp;Int&thinsp;} or a StepRange{&thinsp;Int, Int&thinsp;},   
-some use `i`, and where nested, `j`, `k`, for iteration variable name[s].    
+a UnitRange{&thinsp;Int&thinsp;} or a StepRange{&thinsp;Int, Int&thinsp;}, some people use   
+`i`, and where nested, `j`, `k`, for iteration variable name[s].    
 (*a practice from FORTRAN: `i` was the first integer variable, then `j`*).   
 
 
