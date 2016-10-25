@@ -46,7 +46,7 @@
 ## unit ranges
 
 When the iteration or comprehension takes iterates over an integer range, UnitRange{&thinsp;Int&thinsp;},   
-you may prefer to use the classical iteration variable name `i`, and where nested, `j`, `k`.  
+you may prefer to use the classical iteration variable name `i`, and where nested, `j`, `k`.    
 
 ```julia
 function example( scores::Vector{Int} )
