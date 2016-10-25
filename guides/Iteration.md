@@ -51,8 +51,8 @@ Some people find familiar comfort using `i`, `j`, `k` as names for iteration var
 
 While this practice is not generally appropriate; when an integer range is used for  
 iteration or comprehension, a UnitRange{&thinsp;Int&thinsp;} or a StepRange{&thinsp;Int, Int&thinsp;},  
-it is alright to do.  If you do this, unless the integer range is so well named that  
-a nonexpert will understand the meaning of the iterate, have a comment with its meaning.  
+it is alright.  If you do this, either name the integer range so a nonexpert understands  
+the meaning of the iterate, or include a comment giving its specific meaning.  
 
 ```julia
 function example( scores::Vector{Int} )
