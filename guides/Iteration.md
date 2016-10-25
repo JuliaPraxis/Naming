@@ -1,4 +1,4 @@
-# Naming in Iteration and Comprehension
+# Naming in Iteration and Comprehensions
 
 - [Guidance](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#guidance)
 - [Best Practice](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#best-practice)
