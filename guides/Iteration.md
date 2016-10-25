@@ -45,6 +45,6 @@
   
 ## with UnitRanges
 
-When the iteration or comprehension takes successive values from a UnitRange{**Int**},   
-you may use the classical iteration variable name `i`, and where nested, `j`, `k`.
+When the iteration or comprehension takes iterates over an integer range (UnitRange{Int}),   
+you may prefer to use the classical iteration variable name `i`, and where nested, `j`, `k`.
 
