@@ -48,6 +48,7 @@
 When FORTRAN was young, its integer variables had to start `i`, `j`, .. `q`.  
 The first integer variable was `i`, the second was `j` .. the ninth was `q`.  
 Some people really like using `i`, `j`, `k` as names for iteration variables.  
+If used, they must not be used outside of their specific iteration context.
 
 While this practice is not generally appropriate, when an integer range is used for  
 iteration or comprehension, either a UnitRange{&thinsp;Int&thinsp;} or a StepRange{&thinsp;Int, Int&thinsp;},  
