@@ -2,7 +2,7 @@
 
 - [Guidance](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#guidance)
 - [Best Practice](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#best-practice)
-- [With UnitRange\{Int\}](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#with-unitrangeint)
+- [With UnitRanges](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#with-unitranges)
 
 -------
 
@@ -43,8 +43,8 @@
   - :x:  for i in items
   - :x:  for z in zs
   
-## with UnitRange{Int}
+## with UnitRanges
 
-When the iteration or comprehension takes successive values from a UnitRange{Int},   
+When the iteration or comprehension takes successive values from a UnitRange{**Int**},   
 you may use the classical iteration variable name `i`, and where nested, `j`, `k`.
 
