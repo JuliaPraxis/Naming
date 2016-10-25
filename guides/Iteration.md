@@ -2,7 +2,7 @@
 
 - [Guidance](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#guidance)
 - [Best Practice](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#best-practice)
-- [Unit Ranges](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#with-unit-ranges)
+- [Unit Ranges](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#unit-ranges)
 
 -------
 
@@ -43,8 +43,35 @@
   - :x:  for i in items
   - :x:  for z in zs
   
-## with unit ranges
+## unit ranges
 
 When the iteration or comprehension takes iterates over an integer range, UnitRange{&thinsp;Int&thinsp;},   
-you may prefer to use the classical iteration variable name `i`, and where nested, `j`, `k`.
+you may prefer to use the classical iteration variable name `i`, and where nested, `j`, `k`.  
+
+```julia
+function example( scores::Vector{Int} )
+    result = 0  
+    score_indices = UnitRange(1, length(scores))
+    for index in score_indices
+        # ... 
+    end
+    return result
+end
+
+function example( scores::Vector{Int} )
+    res = 0  
+    for idx in UnitRange(1, length(scores))
+        # ... 
+    end
+    return res
+end
+
+function example( scores::Vector{Int} )
+    res = 0  
+    for i in UnitRange(1, length(scores))
+        # ... 
+    end
+    return res
+end
+```
 
