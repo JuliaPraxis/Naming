@@ -50,7 +50,7 @@ The first integer variable was `i`, the second was `j` .. the ninth was `q`.
 Some people really like using `i`, `j`, `k` as names for iteration variables.  
 
 While this practice is not generally appropriate, when an integer range is used for  
-iteration or comprehension, a UnitRange{&thinsp;Int&thinsp;} or a StepRange{&thinsp;Int, Int&thinsp;},  
+iteration or comprehension, either a UnitRange{&thinsp;Int&thinsp;} or a StepRange{&thinsp;Int, Int&thinsp;},  
 it is alright.  If you do this, either name the integer range so well that a nonexpert  
 gleans the meaning of the iterate easily, or include a comment giving specifics.  
 
