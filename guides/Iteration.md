@@ -2,7 +2,6 @@
 
 - [Guidance](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#guidance)
 - [Best Practice](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#best-practice)
-- [Nesting](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#nesting)
 - [Unit Ranges](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#unit-ranges)
 
 -------
@@ -44,20 +43,6 @@
   - :x:  for i in items
   - :x:  for z in zs
   
-## nesting
-
-With Julia, matrices and other multidimensional arrays are store in column-major order.   
-Your code will run better if you iterate over multidimensional indicies like this:
-
-```julia
-mymatrix = [ [1,2] [3,4] [5,6] [7,8] ]
-
-for index in eachindex(mymatrix)
-    mymatrix[ index ] = mymatrix[ index ] * 2
-end
-    
-```
-
 ## unit ranges
 
 When the iteration or comprehension takes iterates over an integer range, UnitRange{&thinsp;Int&thinsp;},   
