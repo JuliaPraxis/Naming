@@ -2,6 +2,7 @@
 
 - [Guidance](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#guidance)
 - [Best Practice](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#best-practice)
+- [Nesting](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#nesting)
 - [Unit Ranges](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#unit-ranges)
 
 -------
@@ -43,6 +44,15 @@
   - :x:  for i in items
   - :x:  for z in zs
   
+## nesting
+
+With Julia, matrices and other multidimensional arrays are store in column-major order.   
+Your code will run much faster if you iteration over indicies like this:
+
+```julia
+mymatrix = [ [1,2] [3,4] [5,6] [7,8] ]
+```
+
 ## unit ranges
 
 When the iteration or comprehension takes iterates over an integer range, UnitRange{&thinsp;Int&thinsp;},   
@@ -60,7 +70,7 @@ end
 
 function example( scores::Vector{Int} )
     res = 0  
-    for score_idx in UnitRange(1, length(scores))
+    for idx, score in enumerate(scores)
         # ... 
     end
     return res
@@ -68,7 +78,7 @@ end
 
 function example( scores::Vector{Int} )
     res = 0  
-    for i in UnitRange(1, length(scores))
+    for i, in UnitRange(1, length(scores))
         # ... 
     end
     return res
