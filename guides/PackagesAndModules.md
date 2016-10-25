@@ -29,10 +29,10 @@
   - :x: ParseHypertextMarkupLanguage, GML
 
 - For package, module or type names with an initial acronym  
-  write the acronym in uppercase then use camelcase&thinsp;**¹**
+  write the acronym in uppercase then use camelcase
   - :ok:  CSSparser, HTMLbodyValidator
   - :x:  CSSParser, HTMLBodyValidator
-  - :clipboard:&thinsp;&thinsp;**¹**&nbsp;&nbsp; Prefer CssParser to CSSparser? Tell us [here](https://gitter.im/JuliaPraxis/prefer_CssScripts).     
+  - :clipboard: Prefer CssParser to CSSparser? Tell us [here](https://gitter.im/JuliaPraxis/prefer_CssScripts).     
 
 ------  
     
