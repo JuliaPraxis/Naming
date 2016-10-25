@@ -31,5 +31,5 @@ With simple non-nested iteration, these are good templates:
 - Avoid one and two letter names
   - :ok: for item in items
   - :x:  for i in items
-  - :x:  for zp in zippers
+  - :x:  for z in zs
   
