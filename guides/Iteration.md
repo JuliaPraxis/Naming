@@ -2,7 +2,7 @@
 
 - [Guidance](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#guidance)
 - [Best Practice](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#best-practice)
-- [Unit Ranges](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#unit-ranges)
+- [Integer Ranges](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#integer-ranges)
 
 -------
 
@@ -43,10 +43,13 @@
   - :x:  for i in items
   - :x:  for z in zs
   
-## unit ranges
+## integer ranges
 
-When the iteration or comprehension takes iterates over an integer range, UnitRange{&thinsp;Int&thinsp;},   
-you may prefer to use the classical iteration variable name `i`, and where nested, `j`, `k`.    
+When the iteration or comprehension applies over an integer range,   
+a UnitRange{&thinsp;Int&thinsp;} or a StepRange{&thinsp;Int, Int&thinsp;},   
+some use `i`, and where nested, `j`, `k`, for iteration variable name[s].    
+(*a practice from FORTRAN: `i` was the first integer variable, then `j`*).   
+
 
 ```julia
 function example( scores::Vector{Int} )
