@@ -48,10 +48,11 @@
 When FORTRAN was young, its integer variable names had to be prefixed `i`, `j`, .. `q`.  
 There, the first integer variable was `i`, the second was `j` .. the ninth was `q`.  
 Some people find familiar comfort using `i`, `j`, `k` as names for iteration variables.  
+
 While this practice is not generally appropriate; when an integer range is used for  
 iteration or comprehension, a UnitRange{&thinsp;Int&thinsp;} or a StepRange{&thinsp;Int, Int&thinsp;},  
 it is alright to do.  If you do this, unless the integer range is so well named that  
-a nonexpert will understand the meaning of the iterate, give that information in a comment.  
+a nonexpert will understand the meaning of the iterate, have a comment with its meaning.  
 
 ```julia
 function example( scores::Vector{Int} )
