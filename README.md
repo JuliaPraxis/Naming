@@ -18,7 +18,7 @@
 [Variables](https://github.com/JuliaPraxis/Naming/blob/master/guides/Variables.md)   
   
   
-[Iteration](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md)   
+[Iteration and Comprehensions](https://github.com/JuliaPraxis/Naming/blob/master/guides/IterationAndComprehensions.md)   
   
     
 ## specifics
