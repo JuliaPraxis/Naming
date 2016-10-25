@@ -1,12 +1,12 @@
 # Naming Variables
 
-- Use lowercase, with underscores
-  - :ok: scale, getfield
-  - :x:  Scale, getField
+- Use lowercase
+  - :ok: scale, keyvalue
+  - :x:  Scale, keyValue
 
-- Use underscores to separate longer words
-  - :ok: getfield, get_rounding
-  - :x:  get_field, getrounding
+- Use underscores with longer words
+  - :ok: keyvalue, table_width
+  - :x:  key_value, tablewidth
 
 - Prefer clarity to brevity  
   - :ok: dominant_gene
@@ -18,9 +18,9 @@
 
 - Prefer words to acronyms or abbreviations when they may confuse
   - :ok: milliliters
-  - :x: mls
+  - :x:  mls
 
 - Be consistent
   - :ok: distance_to_flag, angle_to_flag
-  - :x: distance_to_flag, flag_angle
+  - :x:  distance_to_flag, flag_angle
   
