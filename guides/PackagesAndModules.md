@@ -25,7 +25,7 @@
   - :x: ParseHypertextMarkupLanguage, GML
 
 - For package, module or type names with an initial acronym  
-  write the acronym in uppercase then use camelcase[1](abcd efg):
+  write the acronym in uppercase then use camelcase&thinsp;¹
   - :ok:  CSSparser, HTMLbodyValidator
   - :x:  CSSParser, HTMLBodyValidator
   
@@ -36,3 +36,9 @@
 ------  
     
 Please see [the manual](http://docs.julialang.org/en/latest/manual/packages/#guidelines-for-naming-a-package).
+
+------
+&nbsp;¹&nbsp;If you prefer the look of CssParser to the alternatives (CSSparser, CSSParser)   
+&nbsp;&nbsp;&nbsp;&nbsp;please say so [here](https://gitter.im/JuliaPraxis/prefer_CssScripts)  
+  
+  
