@@ -1,4 +1,10 @@
-# Naming Iteration Variables
+# Naming in Iteration and Comprehension
+
+- [Guidance](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#guidance)
+- [Best Practice](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#best-practice)
+- [Special Circumstances](https://github.com/JuliaPraxis/Naming/blob/master/guides/Iteration.md#special-circumstances)
+
+-------
 
 ## Guidance
 
@@ -37,3 +43,8 @@
   - :x:  for i in items
   - :x:  for z in zs
   
+## Special Circumstances
+
+When the iteration or comprehension takes successive values from a UnitRange{Int},   
+you may use the classical iteration variable `i`, and where nested, `j`, `k`.
+
