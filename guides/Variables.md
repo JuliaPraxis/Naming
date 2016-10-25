@@ -1,8 +1,12 @@
 # Naming Variables
 
-- Use lowercase with underscores
-  - :ok: scale, intrinsic_curvature
-  - :x:  Scale, intrinisiccurvature
+- Use lowercase, with underscores
+  - :ok: scale, getfield
+  - :x:  Scale, getField
+
+- Use underscores to separate longer words
+  - :ok: getfield, get_rounding
+  - :x:  get_field, get_rounding
 
 - Prefer clarity to brevity  
   - :ok: dominant_gene
