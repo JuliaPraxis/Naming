@@ -1,4 +1,4 @@
-# Naming Variables in Loops and Generators
+# Naming Iteration Variables
 
 Prefer names that follow this pattern:   
 
