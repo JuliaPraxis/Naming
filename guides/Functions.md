@@ -1,5 +1,13 @@
 # Naming Functions
 
+- Use lowercase
+  - :ok: translate, getfield
+  - :x:  Translate, getField
+
+- Use underscores with longer words
+  - :ok: getfield, get_rounding
+  - :x:  get_field, getrounding
+
 - Use lowercase with underscores
   - :ok: scale, affine_transformation
   - :x:  Scale, affinetransformation
@@ -18,7 +26,7 @@
 
 - Be consistent
   - :ok: get_direction, get_angle
-  - :x: get_direction, derive_angle
+  - :x:  get_direction, derive_angle
   
 -----
 
