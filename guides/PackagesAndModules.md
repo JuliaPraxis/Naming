@@ -20,6 +20,10 @@
   - :ok: ProjectiveReals
   - :x:  ProjectiveReal
 
+- Do not use "Julia" in the package name
+  - :ok: CategoryTheory
+  - :x:  CategoryTheoryForJulia
+
 - Use acronyms only when there is no chance of confusion
   - :ok: ParseHTML, GraphModellingLanguage
   - :x: ParseHypertextMarkupLanguage, GML
@@ -28,17 +32,11 @@
   write the acronym in uppercase then use camelcase&thinsp;¹
   - :ok:  CSSparser, HTMLbodyValidator
   - :x:  CSSParser, HTMLBodyValidator
-  
-- Do not use "Julia" in the package name
-  - :ok: CategoryTheory
-  - :x:  CategoryTheoryForJulia
+  - :microphone: if you prefer CssParser to CSSparser, say so [here](https://gitter.im/JuliaPraxis/prefer_CssScripts)     
 
 ------  
     
 Please see [the manual](http://docs.julialang.org/en/latest/manual/packages/#guidelines-for-naming-a-package).
 
-------
-&nbsp;¹&nbsp;If you prefer the look of CssParser to the alternatives (CSSparser, CSSParser)   
-&nbsp;&nbsp;&nbsp;&nbsp;please say so [here](https://gitter.im/JuliaPraxis/prefer_CssScripts)  
-  
+
   
