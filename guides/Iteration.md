@@ -83,7 +83,7 @@ end
 
 function example( scores::Vector{Int} )
     res = 0  
-    for i, in UnitRange(1, length(scores))
+    for i in UnitRange(1, length(scores))
         # ... 
     end
     return res
