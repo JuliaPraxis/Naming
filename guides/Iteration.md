@@ -28,4 +28,8 @@ With simple non-nested iteration, these are good templates:
   - :ok: for width in widths
   - :x:  for size in widths
   
+- Avoid one and two letter names
+  - :ok: for item in items
+  - :x:  for i in items
+  - :x:  for zp in zippers
   
