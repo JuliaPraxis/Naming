@@ -1,5 +1,7 @@
 # Naming Iteration Variables
 
+## Guidance
+
 #### Prefer names that follow this pattern:   
 
 > for **an_element** in **these_elements**
@@ -10,7 +12,7 @@
 > for **singular_for_plural_term** in **plural_term**
   
 
-## examples
+## Best Practice
   
 - Use the templates
   - :ok: for color in colors
