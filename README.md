@@ -1,9 +1,9 @@
 # Choosing Names
 
 Good names work to simpilify collaboration with others in your field and those outside of it.  
-It is much simpler to explain the function `facial_recognition` than to explain that function   
-were it named `facer`.  The potential for successful and  smooth collaboration rides with the  
-elegance and coherence given the names of things to be shared.  
+It is much simpler to explain what the function `facial_recognition` does when its not named   
+`facer`.  The potential for successful and  smooth collaboration rides with the elegance and   
+coherence given the names of things to be shared.  
 
 
 
