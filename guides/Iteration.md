@@ -45,7 +45,7 @@
   
 ## integer ranges
 
-When FORTRAN was young, its integer variables had to begin `i`, `j`, .. `q`.  
+When FORTRAN was young, its integer variables had to start `i`, `j`, .. `q`.  
 The first integer variable was `i`, the second was `j` .. the ninth was `q`.  
 Some people really like using `i`, `j`, `k` as names for iteration variables.  
 
