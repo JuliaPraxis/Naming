@@ -52,7 +52,7 @@ you may prefer to use the classical iteration variable name `i`, and where neste
 function example( scores::Vector{Int} )
     result = 0  
     score_indices = UnitRange(1, length(scores))
-    for index in score_indices
+    for score_index in score_indices
         # ... 
     end
     return result
@@ -60,7 +60,7 @@ end
 
 function example( scores::Vector{Int} )
     res = 0  
-    for idx in UnitRange(1, length(scores))
+    for score_idx in UnitRange(1, length(scores))
         # ... 
     end
     return res
