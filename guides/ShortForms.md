@@ -26,9 +26,6 @@ imaginary | im
 forward | fwd 
 reverse | rev 
 |
-current | cur
-previous | prev 
-|
 linear | lin
 inverse | inv
 |
@@ -71,6 +68,11 @@ string | str
 memory | mem
 pointer | ptr
 reference | ref
+|
+previous | prev
+current | cur
+predecessor | pred
+successor | succ
 |
 directory | dir
 |
@@ -133,19 +135,21 @@ polynomial | poly
 |
 position | pos
 positive | pos
-previous | prev
+predecessor | pred
 |
+previous | prev
 real | re
 reference | ref
-relative | rel
 |
+relative | rel
 result | res
 reverse | rev
-string | str
 |
+string | str
+successor | succ
 temporary | tmp
+|
 tolerance | tol
 value | val
-|
 vector | vec
 |
