@@ -1,4 +1,4 @@
-# Choosing Names
+# Choosing and Using Names
 
 It is easier to understand what `facial_recognition` does than it is to understand what `facer` does.   
 These brief guides collect information on best practices and sound approaches using names with Julia.  
