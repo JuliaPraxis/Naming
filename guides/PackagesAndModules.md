@@ -39,7 +39,7 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      Click the form that you read with most easily and quickly.  
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     write "my preference" as a message in the linked gitter room.
+     then write "my preference" in the linked gitter room.
      
      &nbsp; | &nbsp;  | &nbsp;
      :-------:|:-------:|:-------:
