@@ -43,7 +43,7 @@
      
      &nbsp; | &nbsp;  | &nbsp; | &nbsp; | &nbsp;  | &nbsp;
      :-------:|:-------:|:-------:|:-------:|:-------:|:-------:
-     [HtmlParser(https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; | &nbsp; |     [CssShapes](https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; | &nbsp; 
+     [HtmlParser](https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; | &nbsp; |     [CssShapes](https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; | &nbsp; 
      &nbsp; | &nbsp;  | &nbsp;
      &nbsp; | [HTMLparser](https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; | &nbsp; | [CSSshapes](https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; 
      &nbsp; | &nbsp;  | &nbsp;
