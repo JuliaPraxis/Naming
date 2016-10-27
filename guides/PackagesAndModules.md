@@ -37,7 +37,7 @@
      click whichever one took the shortest time to comprehend,     
      and add to that preference by joining that gitter room.
      
-     &nbsp; | &nbsp; | &nbsp;
+     :grey_question: | :grey_question: | :grey_question:
      -------|--------|-------
      [CSSshapes](https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; | &nbsp; 
      &nbsp; | &nbsp;  | &nbsp;
