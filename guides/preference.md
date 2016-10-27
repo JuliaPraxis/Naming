@@ -7,8 +7,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      Type "yes" and `Enter` for gitter to record your preference.
      
-    &nbsp;      
-    &nbsp;       
+&nbsp;      
+ &nbsp;       
 
      &nbsp; | &nbsp;  | &nbsp; | &nbsp; | &nbsp;  | &nbsp;
      :-------:|:-------:|:-------:|:-------:|:-------:|:-------:
