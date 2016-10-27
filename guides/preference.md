@@ -1,5 +1,7 @@
 # share your preference
 &nbsp;  
+     Click the one that is easiest to see and reads fastest.  
+&nbsp;      
 
      &nbsp; | &nbsp;  | &nbsp; 
      :-------:|:-------:|:-------:
@@ -10,7 +12,6 @@
      &nbsp; | &nbsp; | [SASSScripts](https://gitter.im/JuliaPraxis/SASSScripts)   
     
 &nbsp;      
-     Click the one that is easiest to see and reads fastest.  
      Typing "yes&thinsp;↵" increases the tally for your choice.
 &nbsp;      
  &nbsp;       
