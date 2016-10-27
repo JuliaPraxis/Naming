@@ -37,10 +37,9 @@
  
 - :notebook_with_decorative_cover: Please share your experience.    
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     Click the style you prefer   
+     Click the style you prefer; each links to its own place on gitter.      
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     linking to gitter, one room for each style.  
-     Leave a short message, e.g. "I prefer this" or "yes" 
+     Write "yes" or "I prefer this" there.
      
      &nbsp; | &nbsp;  | &nbsp; | &nbsp; | &nbsp;  | &nbsp;
      :-------:|:-------:|:-------:|:-------:|:-------:|:-------:
