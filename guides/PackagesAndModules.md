@@ -32,10 +32,8 @@
   write the acronym in uppercase then use camelcase
   - :ok:  CSSparser, HTMLbodyValidator
   - :x:  CSSParser, HTMLBodyValidator
-  - :clipboard: Do you prefer the look of CssParser to CSSparser?  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    let us know [here](https://gitter.im/JuliaPraxis/prefer_CssScripts).     
-
+  - :clipboard: If you prefer the look of CssParser to CSSparser, tell [us](https://gitter.im/JuliaPraxis/prefer_CssScripts).      
+  
 ------  
     
 Please see [the manual](http://docs.julialang.org/en/latest/manual/packages/#guidelines-for-naming-a-package).
