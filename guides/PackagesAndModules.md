@@ -39,7 +39,7 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      Click one you prefer; this links to its gitter room.      
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     Type "yes" for gitter to record your preference.
+     Type "yes" and `Enter` for gitter to record your preference.
      
      &nbsp; | &nbsp;  | &nbsp; | &nbsp; | &nbsp;  | &nbsp;
      :-------:|:-------:|:-------:|:-------:|:-------:|:-------:
