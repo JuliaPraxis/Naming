@@ -11,9 +11,9 @@
     
 &nbsp;      
 &nbsp;&nbsp;
-     Click the style that is the easiest to see and to read correctly.  
+     Click the easiest to see and quickest to read.  
 &nbsp;&nbsp;
-     You will link to a room in Gitter that can record your choice.    
+     That links to the room in Gitter for recording that preference.    
 &nbsp;       
 &nbsp;&nbsp;
      Type "yes&thinsp;↵" for gitter to record your preference.
