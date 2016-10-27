@@ -1,8 +1,8 @@
 # share your preference
 &nbsp;  
 
-     &nbsp; | &nbsp;  | &nbsp; | &nbsp; | &nbsp;  | &nbsp;
-     :-------:|:-------:|:-------:|:-------:|:-------:|:-------:
+     &nbsp; | &nbsp;  | &nbsp; 
+     :-------:|:-------:|:-------:
      [CssShapes](https://gitter.im/JuliaPraxis/CssShapes) | &nbsp; | &nbsp;  
      &nbsp; | &nbsp;  | &nbsp;  
      &nbsp; | [EUROoptions](https://gitter.im/JuliaPraxis/EUROoptions) | &nbsp;  
