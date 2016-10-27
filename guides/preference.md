@@ -2,7 +2,7 @@
  
 - Please share your prefernce.    
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     Click one you prefer; this links to its gitter room.      
+     Click the one that is clearest and most easily understood.  
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      Type "yes" and `Enter` for gitter to record your preference.
      
