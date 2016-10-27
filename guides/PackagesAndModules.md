@@ -39,7 +39,7 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      Click the style you prefer; each links to its own place on gitter.      
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     Leave a brief note, *yes* or *this one* there.
+     Type "yes" for gitter to record your preference.
      
      &nbsp; | &nbsp;  | &nbsp; | &nbsp; | &nbsp;  | &nbsp;
      :-------:|:-------:|:-------:|:-------:|:-------:|:-------:
