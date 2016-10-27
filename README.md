@@ -34,7 +34,7 @@ easier to maintain, nicer for others to use and peruse, and it smooths later col
 
 ## discovery
 
-[share your preference](https://github.com/JuliaPraxis/Naming/blob/master/guides/preference.md)
+[share your preference](https://github.com/JuliaPraxis/Naming/blob/master/guides/preference.md#share-your-preference)
 
 
 ----
