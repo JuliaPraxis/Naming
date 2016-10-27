@@ -39,9 +39,9 @@
      
      &nbsp; | &nbsp; | &nbsp;
      -------|--------|-------
-     [CssShapes](https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; | &nbsp; 
+     [CSSshapes](https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; | &nbsp; 
      &nbsp; | &nbsp;  | &nbsp;
-     &nbsp; | [CSSshapes](https://gitter.im/JuliaPraxis/prefer_CssScripts)  
+     &nbsp; | [CssShapes](https://gitter.im/JuliaPraxis/prefer_CssScripts)  
      &nbsp; | &nbsp;  | &nbsp;
      &nbsp; | &nbsp; | [CSSShapes](https://gitter.im/JuliaPraxis/prefer_CssScripts)  
   
