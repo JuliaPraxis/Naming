@@ -10,7 +10,7 @@
 &nbsp;       
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     Type "yes↵" for gitter to record your preference.
+     Type "yes&thinsp;↵" for gitter to record your preference.
 &nbsp;      
  &nbsp;       
 
