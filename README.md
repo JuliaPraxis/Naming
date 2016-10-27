@@ -32,7 +32,7 @@ easier to maintain, nicer for others to use and peruse, and it smooths later col
 [Short Forms](https://github.com/JuliaPraxis/Naming/blob/master/guides/ShortForms.md)
 
 
-## your input
+### community
 
 [share your preference](https://github.com/JuliaPraxis/Naming/blob/master/guides/preference.md)
 
