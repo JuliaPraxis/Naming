@@ -11,7 +11,7 @@
     
 &nbsp;      
      Click the one that is easiest to see and quickest to read.  
-     Typing "yes&thinsp;↵" lets Gitter record the preference.
+     Typing "yes&thinsp;↵" increases the tally for your choice.
 &nbsp;      
  &nbsp;       
 
