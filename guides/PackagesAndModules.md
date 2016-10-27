@@ -35,11 +35,12 @@
  &nbsp;    
  &nbsp;      
   - :notebook_with_decorative_cover: Please tally your experience --    
-     click whichever version you understood most immediately, at a glance   
-     in the linked gitter room, write: *preferred*
+     click whichever version you read at a glance with least effort.     
+     write "my preference" as a message in the linked gitter room.
      
      :grey_question: | :grey_question: | :grey_question:
      :-------:|:-------:|:-------:
+     &nbsp; | &nbsp;  | &nbsp;
      [CSSshapes](https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; | &nbsp; 
      &nbsp; | &nbsp;  | &nbsp;
      &nbsp; | [CssShapes](https://gitter.im/JuliaPraxis/prefer_CssScripts)  
