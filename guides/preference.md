@@ -3,9 +3,9 @@
 ### share your preference
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     Click the one that is clearest and most quickly understood.  
+     Click the one that you prefer as the easiest to read correctly.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     The click links to the gitter room recording preferences for that form.
+     The click links to the gitter room recording preferences for that form.  
 Type "yes" and `Enter` for gitter to record your preference.
      
 &nbsp;      
