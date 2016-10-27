@@ -38,7 +38,7 @@
      and add to that preference by joining that gitter room.
      
      :grey_question: | :grey_question: | :grey_question:
-     -------|--------|-------
+     :-------:|:-------:|:-------:
      [CSSshapes](https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; | &nbsp; 
      &nbsp; | &nbsp;  | &nbsp;
      &nbsp; | [CssShapes](https://gitter.im/JuliaPraxis/prefer_CssScripts)  
