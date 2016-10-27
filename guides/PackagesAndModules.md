@@ -39,7 +39,8 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      Click the style you prefer   
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     write "my preference" in the linked gitter room.
+     linking to gitter, one room for each style.  
+     Leave a short message, e.g. "I prefer this" or "yes" 
      
      &nbsp; | &nbsp;  | &nbsp; | &nbsp; | &nbsp;  | &nbsp;
      :-------:|:-------:|:-------:|:-------:|:-------:|:-------:
