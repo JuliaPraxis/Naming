@@ -38,9 +38,8 @@
      click whichever version you read at a glance with least effort.     
      write "my preference" as a message in the linked gitter room.
      
-     :grey_question: | :grey_question: | :grey_question:
-     :-------:|:-------:|:-------:
      &nbsp; | &nbsp;  | &nbsp;
+     :-------:|:-------:|:-------:
      [CSSshapes](https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; | &nbsp; 
      &nbsp; | &nbsp;  | &nbsp;
      &nbsp; | [CssShapes](https://gitter.im/JuliaPraxis/prefer_CssScripts)  
