@@ -33,11 +33,11 @@
   - :ok:  CSSparser, HTMLbodyValidator
   - :x:  CSSParser, HTMLBodyValidator
   - :grey_question: Please let us tally preferences:  
-     click the one that needed the least glance to understand   
-     and join the linked but otherwise unused gitter room.  
-     [CssShapes](https://gitter.im/JuliaPraxis/prefer_CssScripts).
-     [CSSshapes](https://gitter.im/JuliaPraxis/prefer_CssScripts).
-     [CSSShapes](https://gitter.im/JuliaPraxis/prefer_CssScripts).
+     click whichever one took the shortest time to comprehend,     
+     and add to that preference by joining that gitter room.    
+     [CssShapes](https://gitter.im/JuliaPraxis/prefer_CssScripts)  
+     [CSSshapes](https://gitter.im/JuliaPraxis/prefer_CssScripts)  
+     [CSSShapes](https://gitter.im/JuliaPraxis/prefer_CssScripts)  
   
 ------  
     
