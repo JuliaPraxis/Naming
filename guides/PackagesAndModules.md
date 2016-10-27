@@ -37,9 +37,9 @@
  
 - :notebook_with_decorative_cover: Please share your experience.    
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     Click the style you prefer or click on the form that read most effortlessly.  
+     Click the style you prefer   
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     then write "my preference" in the linked gitter room.
+     write "my preference" in the linked gitter room.
      
      &nbsp; | &nbsp;  | &nbsp; | &nbsp; | &nbsp;  | &nbsp;
      :-------:|:-------:|:-------:|:-------:|:-------:|:-------:
