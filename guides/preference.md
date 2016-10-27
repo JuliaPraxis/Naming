@@ -3,13 +3,13 @@
 
      &nbsp; | &nbsp;  | &nbsp; | &nbsp; | &nbsp;  | &nbsp;
      :-------:|:-------:|:-------:|:-------:|:-------:|:-------:
-     [CssShapes](https://gitter.im/JuliaPraxis/CssShapes) | &nbsp; | &nbsp; 
-     &nbsp; | &nbsp;  | &nbsp;
-     &nbsp; | [EUROoptions](https://gitter.im/JuliaPraxis/EUROoptions) | &nbsp; | &nbsp;
-     &nbsp; | &nbsp;  | &nbsp;
-     &nbsp; | &nbsp; | [SASSScripts](https://gitter.im/JuliaPraxis/SASSScripts)  
-
-&nbsp;  
+     [CssShapes](https://gitter.im/JuliaPraxis/CssShapes) | &nbsp; | &nbsp;  
+     &nbsp; | &nbsp;  | &nbsp;  
+     &nbsp; | [EUROoptions](https://gitter.im/JuliaPraxis/EUROoptions) | &nbsp; | &nbsp;  
+     &nbsp; | &nbsp;  | &nbsp;  
+     &nbsp; | &nbsp; | [SASSScripts](https://gitter.im/JuliaPraxis/SASSScripts)   
+  
+&nbsp;   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      Click the style that is the easiest to see and to read correctly.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
