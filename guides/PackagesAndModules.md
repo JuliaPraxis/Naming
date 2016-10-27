@@ -33,7 +33,7 @@
   - :ok:  CSSparser, HTMLbodyValidator
   - :x:  CSSParser, HTMLBodyValidator  
   
-  - :grey_question: Please let us tally preferences:  
+  - :notebook_with_decorative_cover: Please let us tally preferences:  
      click whichever one took the shortest time to comprehend,     
      and add to that preference by joining that gitter room.
      
