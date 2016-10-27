@@ -32,7 +32,7 @@
   write the acronym in uppercase then use camelcase
   - :ok:  CSSparser, HTMLbodyValidator
   - :x:  CSSParser, HTMLBodyValidator
-  - :grey_question: do you like ["CssParser"](https://gitter.im/JuliaPraxis/prefer_CssScripts) more than "CSSparser".
+  - :grey_question: If you like "CssParser"  more than "CSSparser", add your preference [here](https://gitter.im/JuliaPraxis/prefer_CssScripts).
   
 ------  
     
