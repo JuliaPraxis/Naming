@@ -31,13 +31,16 @@
 - For package, module or type names with an initial acronym  
   write the acronym in uppercase then use camelcase
   - :ok:  CSSparser, HTMLbodyValidator
-  - :x:  CSSParser, HTMLBodyValidator
+  - :x:  CSSParser, HTMLBodyValidator  
+  
   - :grey_question: Please let us tally preferences:  
      click whichever one took the shortest time to comprehend,     
-     and add to that preference by joining that gitter room.    
-     [CssShapes](https://gitter.im/JuliaPraxis/prefer_CssScripts)  
-     [CSSshapes](https://gitter.im/JuliaPraxis/prefer_CssScripts)  
-     [CSSShapes](https://gitter.im/JuliaPraxis/prefer_CssScripts)  
+     and add to that preference by joining that gitter room.
+     &nbsp; | &nbsp; | &nbsp;
+     -------|--------|-------
+     [CssShapes](https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; | &nbsp; 
+     &nbsp; | [CSSshapes](https://gitter.im/JuliaPraxis/prefer_CssScripts)  
+     &nbsp; | &nbsp; | [CSSShapes](https://gitter.im/JuliaPraxis/prefer_CssScripts)  
   
 ------  
     
