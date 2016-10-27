@@ -34,9 +34,9 @@
   - :x:  CSSParser, HTMLBodyValidator   
  &nbsp;    
  &nbsp;      
-  - :notebook_with_decorative_cover: Please share your experience --    
+  - :notebook_with_decorative_cover: Please share your experience.    
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     click whichever version you read at a glance with least effort.     
+     Click the name form you read at a glance with the least effort.     
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
      write "my preference" as a message in the linked gitter room.
      
