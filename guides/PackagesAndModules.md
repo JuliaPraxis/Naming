@@ -37,7 +37,7 @@
  
 - :notebook_with_decorative_cover: Please share your experience.    
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     Click the form that you read with most easily and quickly.  
+     Click the style you prefer or click on the form that read most effortlessly.  
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      then write "my preference" in the linked gitter room.
      
