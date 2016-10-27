@@ -35,8 +35,10 @@
  &nbsp;    
  &nbsp;      
   - :notebook_with_decorative_cover: Please share your experience --    
-     &nbsp;&nbsp;&nbsp;&nbsp; click whichever version you read at a glance with least effort.     
-     &nbsp;&nbsp;&nbsp;&nbsp; write "my preference" as a message in the linked gitter room.
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     click whichever version you read at a glance with least effort.     
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+     write "my preference" as a message in the linked gitter room.
      
      &nbsp; | &nbsp;  | &nbsp;
      :-------:|:-------:|:-------:
