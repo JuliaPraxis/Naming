@@ -3,11 +3,11 @@
 
      &nbsp; | &nbsp;  | &nbsp; | &nbsp; | &nbsp;  | &nbsp;
      :-------:|:-------:|:-------:|:-------:|:-------:|:-------:
-     [HtmlParser](https://gitter.im/JuliaPraxis/CssScripts) | &nbsp; | &nbsp; |     [CssShapes](https://gitter.im/JuliaPraxis/CssScripts) | &nbsp; | &nbsp; 
+     [CssShapes](https://gitter.im/JuliaPraxis/CssShapes) | &nbsp; | &nbsp; 
      &nbsp; | &nbsp;  | &nbsp;
-     &nbsp; | [HTMLparser](https://gitter.im/JuliaPraxis/EUROoptions) | &nbsp; | &nbsp; | [EUROoptions](https://gitter.im/JuliaPraxis/IBMmarketing) | &nbsp; 
+     &nbsp; | [EUROoptions](https://gitter.im/JuliaPraxis/EUROoptions) | &nbsp; | &nbsp;
      &nbsp; | &nbsp;  | &nbsp;
-     &nbsp; | &nbsp; | [HTMLParser](https://gitter.im/JuliaPraxis/SASSScripts)  | &nbsp; | &nbsp; | [CSSShapes](https://gitter.im/JuliaPraxis/SASSScripts)  
+     &nbsp; | &nbsp; | [SASSScripts](https://gitter.im/JuliaPraxis/SASSScripts)  
 
 &nbsp;  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
