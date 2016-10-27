@@ -3,10 +3,11 @@
 ### share your preference
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     Click the one that you prefer as the easiest to read correctly.  
+     Click the style that is the easiest to see and correctly read.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     The click links to the gitter room recording preferences for that form.  
-Type "yes" and `Enter` for gitter to record your preference.
+     You will link to a room in Gitter that can record your choice.    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     Type "yes" and `Enter` for gitter to record your preference.
      
 &nbsp;      
  &nbsp;       
