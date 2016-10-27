@@ -32,10 +32,11 @@
   write the acronym in uppercase then use camelcase
   - :ok:  CSSparser, HTMLbodyValidator
   - :x:  CSSParser, HTMLBodyValidator   
-    
+ &nbsp;    
+ &nbsp;      
   - :notebook_with_decorative_cover: Please tally your experience --    
-     click whichever one took the shortest time to comprehend,     
-     then, in the linked gitter room, just write: my preference
+     click whichever version you understood most immediately, at a glance   
+     in the linked gitter room, write: *preferred*
      
      :grey_question: | :grey_question: | :grey_question:
      :-------:|:-------:|:-------:
