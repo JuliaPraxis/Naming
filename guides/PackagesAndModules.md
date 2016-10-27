@@ -41,13 +41,13 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      then write "my preference" in the linked gitter room.
      
+     &nbsp; | &nbsp;  | &nbsp; | &nbsp; | &nbsp;  | &nbsp;
+     :-------:|:-------:|:-------:|:-------:|:-------:|:-------:
+     [HtmlParser(https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; | &nbsp; |     [CssShapes](https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; | &nbsp; 
      &nbsp; | &nbsp;  | &nbsp;
-     :-------:|:-------:|:-------:
-     [CssShapes](https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; | &nbsp; 
+     &nbsp; | [HTMLparser](https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; | &nbsp; | [CSSshapes](https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; 
      &nbsp; | &nbsp;  | &nbsp;
-     &nbsp; | [CSSshapes](https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; 
-     &nbsp; | &nbsp;  | &nbsp;
-     &nbsp; | &nbsp; | [CSSShapes](https://gitter.im/JuliaPraxis/prefer_CssScripts)  
+     &nbsp; | &nbsp; | [HTMLParser](https://gitter.im/JuliaPraxis/prefer_CssScripts)  | &nbsp; | &nbsp; | [CSSShapes](https://gitter.im/JuliaPraxis/prefer_CssScripts)  
   
 ------  
     
