@@ -3,11 +3,11 @@
 
      &nbsp; | &nbsp;  | &nbsp; | &nbsp; | &nbsp;  | &nbsp;
      :-------:|:-------:|:-------:|:-------:|:-------:|:-------:
-     [HtmlParser](https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; | &nbsp; |     [CssShapes](https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; | &nbsp; 
+     [HtmlParser](https://gitter.im/JuliaPraxis/CssScripts) | &nbsp; | &nbsp; |     [CssShapes](https://gitter.im/JuliaPraxis/CssScripts) | &nbsp; | &nbsp; 
      &nbsp; | &nbsp;  | &nbsp;
-     &nbsp; | [HTMLparser](https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; | &nbsp; | [CSSshapes](https://gitter.im/JuliaPraxis/prefer_CssScripts) | &nbsp; 
+     &nbsp; | [HTMLparser](https://gitter.im/JuliaPraxis/EUROoptions) | &nbsp; | &nbsp; | [EUROoptions](https://gitter.im/JuliaPraxis/IBMmarketing) | &nbsp; 
      &nbsp; | &nbsp;  | &nbsp;
-     &nbsp; | &nbsp; | [HTMLParser](https://gitter.im/JuliaPraxis/prefer_CssScripts)  | &nbsp; | &nbsp; | [CSSShapes](https://gitter.im/JuliaPraxis/prefer_CssScripts)  
+     &nbsp; | &nbsp; | [HTMLParser](https://gitter.im/JuliaPraxis/SASSScripts)  | &nbsp; | &nbsp; | [CSSShapes](https://gitter.im/JuliaPraxis/SASSScripts)  
 
 &nbsp;  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
