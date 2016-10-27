@@ -35,7 +35,7 @@
     
   - :notebook_with_decorative_cover: Please tally your experience --    
      click whichever one took the shortest time to comprehend,     
-     and add to its aggregate preference by joining the gitter room.
+     then, in the linked gitter room, just write: my preference
      
      :grey_question: | :grey_question: | :grey_question:
      :-------:|:-------:|:-------:
