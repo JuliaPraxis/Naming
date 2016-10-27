@@ -31,11 +31,11 @@
 - For package, module or type names with an initial acronym  
   write the acronym in uppercase then use camelcase
   - :ok:  CSSparser, HTMLbodyValidator
-  - :x:  CSSParser, HTMLBodyValidator  
-  
-  - :notebook_with_decorative_cover: Please let us tally preferences:  
+  - :x:  CSSParser, HTMLBodyValidator   
+    
+  - :notebook_with_decorative_cover: Please tally your experience --    
      click whichever one took the shortest time to comprehend,     
-     and add to that preference by joining that gitter room.
+     and add to its aggregate preference by joining the gitter room.
      
      :grey_question: | :grey_question: | :grey_question:
      :-------:|:-------:|:-------:
