@@ -38,6 +38,7 @@
 - :notebook_with_decorative_cover: Please share your experience.    
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      Click the style you prefer; each links to its own place on gitter.      
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      Leave a brief note, *yes* or *this one* there.
      
      &nbsp; | &nbsp;  | &nbsp; | &nbsp; | &nbsp;  | &nbsp;
