@@ -10,12 +10,8 @@
      &nbsp; | &nbsp; | [SASSScripts](https://gitter.im/JuliaPraxis/SASSScripts)   
     
 &nbsp;      
-&nbsp;&nbsp;
-     Click the easiest to see and quickest to read.  
-&nbsp;&nbsp;
-     That links to the room in Gitter for recording that preference.    
+     Click the one that is easiest to see and quickest to read.  
 &nbsp;       
-&nbsp;&nbsp;
      Type "yes&thinsp;↵" for gitter to record your preference.
 &nbsp;      
  &nbsp;       
