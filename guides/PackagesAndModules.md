@@ -37,7 +37,7 @@
  
 - :notebook_with_decorative_cover: Please share your experience.    
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     Click the name form you read at a glance with the least effort.     
+     Click the form that you read with most easily and quickly.  
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      write "my preference" as a message in the linked gitter room.
      
