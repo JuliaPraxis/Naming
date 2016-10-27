@@ -11,7 +11,7 @@
     
 &nbsp;      
      Click the one that is easiest to see and quickest to read.  
-     Then type "yes&thinsp;↵" for gitter to record your preference.
+     Typing "yes&thinsp;↵" lets Gitter record the preference.
 &nbsp;      
  &nbsp;       
 
