@@ -5,7 +5,7 @@
      :-------:|:-------:|:-------:|:-------:|:-------:|:-------:
      [CssShapes](https://gitter.im/JuliaPraxis/CssShapes) | &nbsp; | &nbsp;  
      &nbsp; | &nbsp;  | &nbsp;  
-     &nbsp; | [EUROoptions](https://gitter.im/JuliaPraxis/EUROoptions) | &nbsp; | &nbsp;  
+     &nbsp; | [EUROoptions](https://gitter.im/JuliaPraxis/EUROoptions) | &nbsp;  
      &nbsp; | &nbsp;  | &nbsp;  
      &nbsp; | &nbsp; | [SASSScripts](https://gitter.im/JuliaPraxis/SASSScripts)   
     
