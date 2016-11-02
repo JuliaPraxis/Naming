@@ -4,9 +4,16 @@
   - :ok: scale, keyvalue
   - :x:  Scale, keyValue
 
-- Use underscores with longer words
-  - :ok: keyvalue, table_width
-  - :x:  key_value, tablewidth
+- Use underscores with initial nouns and longer initial words
+  - :ok: gem_clarity, maybe_null, luminous_flux
+  - :x:  gemclarity, maybenull, luminousflux
+
+- Usually omit underscores with very short, frequently used initial verbs
+  (use underscores when doing so makes reading or understanding easier)
+  - :ok: getwidth, eat_lunch luminous_flux, 
+  - :ok: popstack, pop_stack, set_table
+  - :x:  get_width, eatlunch, luminousflux
+  - :x:  settable [set a table or make an option settable]
 
 - Prefer clarity to brevity  
   - :ok: dominant_gene
