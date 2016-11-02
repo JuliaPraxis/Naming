@@ -10,11 +10,11 @@
 
 - Usually omit underscores with very short, frequently used initial verbs  
   (use underscores when doing so makes reading or understanding easier)
-  - :ok: getwidth, eat_lunch luminous_flux, 
-  - :ok: popstack, pop_stack, set_table
-  - :x:  get_width, eatlunch, luminousflux
+  - :ok: getwidth, popstack, pop_stack
+  - :ok: set_table, eat_lunch luminous_flux
   - :x:  settable [set a table or make an option settable]
-
+  - :x:  get_width, eatlunch, luminousflux
+  
 - Prefer clarity to brevity  
   - :ok: dominant_gene
   - :x:  dominant
