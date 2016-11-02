@@ -8,7 +8,7 @@
   - :ok: gem_clarity, maybe_null, luminous_flux
   - :x:  gemclarity, maybenull, luminousflux
 
-- Usually omit underscores with very short, frequently used initial verbs
+- Usually omit underscores with very short, frequently used initial verbs  
   (use underscores when doing so makes reading or understanding easier)
   - :ok: getwidth, eat_lunch luminous_flux, 
   - :ok: popstack, pop_stack, set_table
