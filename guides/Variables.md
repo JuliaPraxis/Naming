@@ -9,7 +9,7 @@
   - :x:  gemclarity, maybenull, luminousflux
 
 - Usually omit underscores with very short, frequently used initial verbs  
-  (use underscores when doing so makes reading or understanding easier)
+  (use underscores where they ease reading or clarify understanding)
   - :ok: getwidth, popstack, pop_stack
   - :ok: set_table, eat_lunch luminous_flux
   - :x:  settable [set a table or make an option settable]
