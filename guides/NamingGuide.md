@@ -27,10 +27,10 @@
   
 - Use singular terms for individuals and members of an aggregate<br/>
   Use collective terms for aggregations and subsumptive grouping
-  - :ok: currents = [charge/duration for (charge, duration) in zip(charges, durations)]  
   - :ok: sorts_of_color
-  - :x: current = [charge/duration for (charge, duration) in zip(charges, durations)]  
+  - :ok: currents = [charge/duration for (charge, duration) in zip(charges, durations)]  
   - :x: sorts_of_colors
+  - :x: current = [charge/duration for (charge, duration) in zip(charges, durations)]  
   
 - Use acronyms only when there is no chance of confusion
   - :ok:  ParseHTML, two_line_element
