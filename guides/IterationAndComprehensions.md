@@ -23,6 +23,7 @@
 - Use the pattern
   - :ok: for contractor in keys(contractor_skills)
   - :ok: for professor in professors, for professor in faculty
+  - :ok: for (professor, department) in zip(professors, departments)
   - :x: for key in keys(contractor_skills)
   - :x: for (key,val) in zip(professors, departments)  
   
