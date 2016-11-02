@@ -10,7 +10,8 @@
 
 #### Prefer names that follow this pattern:   
 
-> for **an_element** in **these_elements**
+> for **an_element** in **these_elements**  
+> for **an_element** *that is one of* **these_elements**
 
 #### These are good templates (use whichever is more natural):
 
@@ -20,10 +21,10 @@
 ## Best Practice
 
 - Use the pattern
-  - :ok: for professor in faculty
   - :ok: for contractor in keys(contractor_skills)
-  - :x:  for professor in employees
-  - :x:  for worker in keys(contractor_skills)
+  - :ok: for professor in professors, for professor in faculty
+  - :x: for key in keys(contractor_skills)
+  - :x: for (key,val) in zip(professors, departments)  
   
 - Use the templates
   - :ok: for color in colors
