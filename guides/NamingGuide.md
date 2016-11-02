@@ -25,6 +25,14 @@
   - :ok:  get_direction, get_angle
   - :x:  get_direction, derive_angle
   
+- Use singular terms for individuals and members of an aggregate
+  - :ok: gravitational_flux
+  - :x: gravity_flux
+
+- Use collective terms for aggregations and subsumptive grouping
+  - :ok: orbital_frequencies
+  - :x: orbitals_frequency
+
 - Use acronyms only when there is no chance of confusion
   - :ok:  ParseHTML, two_line_element
   - :x:  ParseHypertextMarkupLanguage, tle
