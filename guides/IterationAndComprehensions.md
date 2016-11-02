@@ -10,7 +10,7 @@
 
 #### Prefer names that follow this pattern:   
 
-> for **an_element** in (*from*) **these_elements**  
+> for **an_element** in or from **these_elements**  
 > for **an_element** *that is one of* **these_elements**
 
 #### These are good templates (use whichever is more natural):
