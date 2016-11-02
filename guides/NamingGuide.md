@@ -25,8 +25,8 @@
   - :ok:  get_direction, get_angle
   - :x:  get_direction, derive_angle
   
-- Use singular terms for individuals and members of an aggregate  
-- Use collective terms for aggregations and subsumptive grouping
+- Use singular terms for individuals and members of an aggregate<br/>
+  Use collective terms for aggregations and subsumptive grouping
   - :ok: currents = [charge/duration for (charge, duration) in zip(charges, durations)]  
   - :ok: sorts_of_color
   - :x: current = [charge/duration for (charge, duration) in zip(charges, durations)]  
