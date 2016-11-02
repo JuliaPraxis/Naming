@@ -25,14 +25,13 @@
   - :ok:  get_direction, get_angle
   - :x:  get_direction, derive_angle
   
-- Use singular terms for individuals and members of an aggregate
-  - :ok: gravitational_flux
-  - :x: gravity_flux
-
+- Use singular terms for individuals and members of an aggregate  
 - Use collective terms for aggregations and subsumptive grouping
-  - :ok: orbital_frequencies
-  - :x: orbitals_frequency
-
+  - :ok: currents = [charge/duration for (charge, duration) in zip(charges, durations)]  
+  - :ok: sorts_of_color
+  - :x: current = [charge/duration for (charge, duration) in zip(charges, durations)]  
+  - :x: sorts_of_colors
+  
 - Use acronyms only when there is no chance of confusion
   - :ok:  ParseHTML, two_line_element
   - :x:  ParseHypertextMarkupLanguage, tle
