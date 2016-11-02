@@ -16,9 +16,14 @@
 
 > for **singular_term** in **plural_of_singular_term**  
 > for **singular_for_plural_term** in **plural_term**
-  
 
 ## Best Practice
+
+- Use the pattern
+  - :ok: for professor in faculty
+  - :ok: for contractor in keys(contractor_skills)
+  - :x:  for professor in employees
+  - :x:  for worker in keys(contractor_skills)
   
 - Use the templates
   - :ok: for color in colors
