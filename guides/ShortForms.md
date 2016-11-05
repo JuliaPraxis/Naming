@@ -36,7 +36,7 @@ object | obj
 message | msg
 |
 index | idx
-iterat+{e,or,ive} | iter
+iterator :white_small_square: | iter 
 |
 position | pos
 direction | dir
