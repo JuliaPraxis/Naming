@@ -38,6 +38,9 @@ expression | expr
 object | obj
 message | msg
 |
+index | idx
+iterator (_tive) | iter
+|
 position | pos
 direction | dir
 |
@@ -60,10 +63,6 @@ array | arr
 value | val 
 result | res
 temporary | tmp
-|
-index | idx
-character | chr
-string | str
 |
 memory | mem
 pointer | ptr
@@ -113,43 +112,44 @@ forward | fwd
 imaginary | im
 index | idx
 |
+iterate (iterative) | iter
 initialize | init
 inverse | inv
-linear | lin
 |
+linear | lin
 matrix | mat
 maximum | max
-memory | mem
 |
+memory | mem
 message | msg
 middle | mid
-minimum | min
 |
+minimum | min
 negative | neg
 nonzero | nz
-numerator | num
 |
+numerator | num
 object | obj
 pointer | ptr
-polynomial | poly
 |
+polynomial | poly
 position | pos
 positive | pos
-predecessor | pred
 |
+predecessor | pred
 previous | prev
 real | re
-reference | ref
 |
+reference | ref
 relative | rel
 result | res
-reverse | rev
 |
+reverse | rev
 string | str
 successor | succ
-temporary | tmp
 |
+temporary | tmp
 tolerance | tol
 value | val
-vector | vec
 |
+vector | vec
