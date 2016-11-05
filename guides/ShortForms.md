@@ -29,9 +29,6 @@ reverse | rev
 linear | lin
 inverse | inv
 |
-coefficient | coef
-polynomial | poly
-|
 definition | def
 expression | expr
 |
@@ -39,7 +36,7 @@ object | obj
 message | msg
 |
 index | idx
-iterator (_tive) | iter
+iterat+{e,or,ive} | iter
 |
 position | pos
 direction | dir
@@ -60,6 +57,10 @@ vector | vec
 matrix | mat 
 array | arr 
 | 
+coefficient | coef
+polynomial | poly
+equation | eqn
+|
 value | val 
 result | res
 temporary | tmp
@@ -108,48 +109,49 @@ error | err
 evaluate | eval
 expression | expr
 |
+equation | eqn
 forward | fwd
 imaginary | im
+|
 index | idx
-|
-iterate (iterative) | iter
+iterat+{e,or,ive} | iter
 initialize | init
-inverse | inv
 |
+inverse | inv
 linear | lin
 matrix | mat
-maximum | max
 |
+maximum | max
 memory | mem
 message | msg
-middle | mid
 |
+middle | mid
 minimum | min
 negative | neg
-nonzero | nz
 |
+nonzero | nz
 numerator | num
 object | obj
-pointer | ptr
 |
+pointer | ptr
 polynomial | poly
 position | pos
-positive | pos
 |
+positive | pos
 predecessor | pred
 previous | prev
-real | re
 |
+real | re
 reference | ref
 relative | rel
-result | res
 |
+result | res
 reverse | rev
 string | str
-successor | succ
 |
+successor | succ
 temporary | tmp
 tolerance | tol
-value | val
 |
+value | val
 vector | vec
