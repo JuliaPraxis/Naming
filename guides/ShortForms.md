@@ -9,16 +9,16 @@
 &nbsp; &nbsp;  
 
 meaning|term
------|-------
+-------|-------
 |
-absolute &nbsp;∼&nbsp;  | abs 
-relative &nbsp;↙ | rel 
+absolute | abs 
+relative | rel 
 |
 error | err 
 tolerance | tol 
 |
 numerator | num
-denominator :curly_loop: | den
+denominator | den
 |
 real | re
 imaginary | im
@@ -36,13 +36,13 @@ object | obj
 message | msg
 |
 index | idx
-iterator :small_blue_diamond: | iter 
+iterator  ⋈  | iter 
 |
 position | pos
 direction | dir
 |
 initialize | init
-evaluate :triangular_flag_on_post: | eval
+evaluate  | eval
 calculate | calc
 |
 positive | pos
@@ -58,8 +58,8 @@ matrix :small_red_triangle: | mat
 array | arr 
 | 
 coefficient | coef
-polynomial :paperclip: | poly
-equation :speech_baloon: | eqn
+polynomial  | poly
+equation :cdot: | eqn
 |
 value⊳ | val 
 result&nbsp;⊳ | res
