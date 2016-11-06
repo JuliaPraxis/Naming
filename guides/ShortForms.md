@@ -7,7 +7,8 @@
 &nbsp; &nbsp; 
 ### Table of Abbreviations
 &nbsp; &nbsp;  
-
+  
+  
 meaning|term
 -------|-------
 |
@@ -32,8 +33,8 @@ inverse | inv
 object  | obj
 message | msg
 |
-index&thinsp;⋊ | idx
-iterator&thinsp;≊  | iter 
+index | idx
+iterator  | iter 
 |
 coefficient | coef
 polynomial | poly
@@ -71,8 +72,8 @@ reference | ref
 |
 prev∥ious | prev
 current | cur
-predecessor&thinsp; | pred
-successor&thinsp;∥ | succ
+predecessor | pred
+successor | succ
 |
 directory | dir
 |
@@ -114,7 +115,7 @@ forward | fwd
 imaginary | im
 |
 index  | idx
-iteratator ∓  | iter
+iteratator  | iter
 initialize | init
 |
 inverse | inv
