@@ -42,11 +42,11 @@ position | pos
 direction | dir
 |
 initialize | init
-evaluate | eval
+evaluate :triangular_flag_on_post: | eval
 calculate | calc
 |
 positive | pos
-negative | neg
+negative :round_pushpin: | neg
 nonzero | nz 
 |
 minimum | min
