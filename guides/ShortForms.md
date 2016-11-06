@@ -11,11 +11,11 @@
 meaning|term
 -----|-------
 |
-absolute &nbsp;  | abs 
+absolute &nbsp;∼&nbsp;  | abs 
 relative&nbsp | rel 
 |
 error | err 
-  :pencil2:  tolerance | tol 
+tolerance | tol 
 |
 numerator | num
 denominator :curly_loop: | den
@@ -61,11 +61,11 @@ coefficient | coef
 polynomial :paperclip: | poly
 equation :speech_baloon: | eqn
 |
-value | val 
+value ␣ | val 
 result :ear: | res
 temporary | tmp
 |
-memory | mem
+memory  '␣' | mem
 pointer | ptr
 reference:baloon: | ref
 |
