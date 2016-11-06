@@ -32,11 +32,11 @@ inverse | inv
 definition | def
 expression | expr
 |
-object | obj
+object⋯  | obj
 message | msg
 |
 index | idx
-iterator  ⋈  | iter 
+iterator ⋯  | iter 
 |
 position | pos
 direction | dir
@@ -59,7 +59,7 @@ array | arr
 | 
 coefficient | coef
 polynomial  | poly
-equation :cdot: | eqn
+equation  | eqn
 |
 value⊳ | val 
 result&nbsp;⊳ | res
