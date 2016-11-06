@@ -33,7 +33,7 @@ object  | obj
 message | msg
 |
 index | idx
-iterator  | iter 
+iterator&thinsp;∓  | iter 
 |
 position | pos
 direction | dir
@@ -114,7 +114,7 @@ forward | fwd
 imaginary | im
 |
 index  | idx
-iteratator  | iter
+iteratator ∓  | iter
 initialize | init
 |
 inverse | inv
