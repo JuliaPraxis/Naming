@@ -15,7 +15,7 @@ absolute  :tea:  | abs
 relative | rel 
 |
 error | err 
-tolerance | tol 
+  :pencil2:  tolerance | tol 
 |
 numerator | num
 denominator :curly_loop: | den
