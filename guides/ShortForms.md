@@ -11,8 +11,8 @@
 meaning|term
 -----|-------
 |
-absolute  :tea:  | abs 
-relative | rel 
+absolute &nbsp;  | abs 
+relative&nbsp | rel 
 |
 error | err 
   :pencil2:  tolerance | tol 
