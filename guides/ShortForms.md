@@ -35,6 +35,9 @@ message | msg
 index | idx
 iterator&thinsp;≊  | iter 
 |
+coefficient | coef
+polynomial | poly
+|
 position | pos
 direction | dir
 |
@@ -58,9 +61,6 @@ vector | vec
 matrix | mat 
 array | arr 
 | 
-coefficient | coef
-polynomial | poly
-|
 value | val 
 result | res
 temporary | tmp
@@ -71,7 +71,7 @@ reference | ref
 |
 prev∥ious | prev
 current | cur
-predecessor | pred
+predecessor&thinsp; | pred
 successor&thinsp;∥ | succ
 |
 directory | dir
