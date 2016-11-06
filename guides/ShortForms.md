@@ -18,7 +18,7 @@ error | err
 tolerance | tol 
 |
 numerator | num
-denominator | den
+denominator :curly_loop: | den
 |
 real | re
 imaginary | im
