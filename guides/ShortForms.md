@@ -54,20 +54,20 @@ middle | mid
 maximum | max 
 |
 vector | vec
-matrix | mat 
+matrix :small_red_triangle: | mat 
 array | arr 
 | 
 coefficient | coef
-polynomial | poly
-equation | eqn
+polynomial :paperclip: | poly
+equation :speech_baloon: | eqn
 |
 value | val 
-result | res
+result :ear: | res
 temporary | tmp
 |
 memory | mem
 pointer | ptr
-reference | ref
+reference:baloon: | ref
 |
 previous | prev
 current | cur
@@ -113,9 +113,9 @@ equation | eqn
 forward | fwd
 imaginary | im
 |
-index | idx
+index :curly_loop: | idx
 iteratatore :wavy_dash: | iter
-initialize :small_red_triangle:| init
+initialize :small_red_triangle_dpwm:| init
 |
 inverse | inv
 linear | lin
