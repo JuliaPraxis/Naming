@@ -33,7 +33,7 @@ object  | obj
 message | msg
 |
 index | idx
-iterator&thinsp;∓  | iter 
+iterator&thinsp;≊  | iter 
 |
 position | pos
 direction | dir
