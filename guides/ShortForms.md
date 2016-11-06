@@ -29,10 +29,7 @@ reverse | rev
 linear | lin
 inverse | inv
 |
-definition | def
-expression | expr
-|
-object♮  | obj
+object  | obj
 message | msg
 |
 index | idx
@@ -41,12 +38,16 @@ iterator  | iter
 position | pos
 direction | dir
 |
+definition | def
+expression | expr
+equation  | eqn
+|
 initialize | init
 evaluate  | eval
 calculate | calc
 |
-positive↶ | pos
-negative ↶ | neg
+positive | pos
+negative | neg
 nonzero | nz 
 |
 minimum | min
@@ -54,20 +55,19 @@ middle | mid
 maximum | max 
 |
 vector | vec
-matrix :small_red_triangle: | mat 
+matrix | mat 
 array | arr 
 | 
 coefficient | coef
 polynomial | poly
-equation  | eqn
 |
-value⊳ | val 
-result⊳ | res
-temporary \that  | tmp
+value | val 
+result | res
+temporary | tmp
 |
 memory  | mem
 pointer | ptr
-reference :baloon: | ref
+reference | ref
 |
 previous | prev
 current | cur
@@ -114,7 +114,7 @@ forward | fwd
 imaginary | im
 |
 index  | idx
-iteratatore  | iter
+iteratator  | iter
 initialize | init
 |
 inverse | inv
