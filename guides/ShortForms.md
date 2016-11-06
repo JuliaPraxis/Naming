@@ -69,10 +69,10 @@ memory  | mem
 pointer | ptr
 reference | ref
 |
-previous | prev
+prev∥ious | prev
 current | cur
 predecessor | pred
-successor | succ
+successor&thinsp;∥ | succ
 |
 directory | dir
 |
