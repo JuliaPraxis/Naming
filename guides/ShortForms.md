@@ -32,7 +32,7 @@ inverse | inv
 object  | obj
 message | msg
 |
-index | idx
+index&thinsp;⋊ | idx
 iterator&thinsp;≊  | iter 
 |
 coefficient | coef
