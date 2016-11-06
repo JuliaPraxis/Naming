@@ -114,8 +114,8 @@ forward | fwd
 imaginary | im
 |
 index | idx
-iterat+{e,or,ive} | iter
-initialize | init
+iteratatore :wavy_dash: | iter
+initialize :small_red_triangle:| init
 |
 inverse | inv
 linear | lin
