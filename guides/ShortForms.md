@@ -11,7 +11,7 @@
 meaning|term
 -----|-------
 |
-absolute  :recycle:  | abs 
+absolute  :tea:  | abs 
 relative | rel 
 |
 error | err 
