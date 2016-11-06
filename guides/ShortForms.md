@@ -32,11 +32,11 @@ inverse | inv
 definition | def
 expression | expr
 |
-object⋯  | obj
+object♮  | obj
 message | msg
 |
 index | idx
-iterator ⋯  | iter 
+iterator  | iter 
 |
 position | pos
 direction | dir
@@ -45,8 +45,8 @@ initialize | init
 evaluate  | eval
 calculate | calc
 |
-positive | pos
-negative :round_pushpin: | neg
+positive↶ | pos
+negative ↶ | neg
 nonzero | nz 
 |
 minimum | min
@@ -58,12 +58,12 @@ matrix :small_red_triangle: | mat
 array | arr 
 | 
 coefficient | coef
-polynomial  | poly
+polynomial | poly
 equation  | eqn
 |
 value⊳ | val 
-result&nbsp;⊳ | res
-temporary | tmp
+result⊳ | res
+temporary \that  | tmp
 |
 memory  | mem
 pointer | ptr
@@ -113,9 +113,9 @@ equation | eqn
 forward | fwd
 imaginary | im
 |
-index :curly_loop: | idx
-iteratatore :wavy_dash: | iter
-initialize :small_red_triangle_dpwm:| init
+index  | idx
+iteratatore  | iter
+initialize | init
 |
 inverse | inv
 linear | lin
