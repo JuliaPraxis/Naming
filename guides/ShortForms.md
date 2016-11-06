@@ -12,7 +12,7 @@ meaning|term
 -----|-------
 |
 absolute &nbsp;∼&nbsp;  | abs 
-relative&nbsp | rel 
+relative &nbsp;↙ | rel 
 |
 error | err 
 tolerance | tol 
@@ -61,13 +61,13 @@ coefficient | coef
 polynomial :paperclip: | poly
 equation :speech_baloon: | eqn
 |
-value ␣ | val 
-result :ear: | res
+value⊳ | val 
+result&nbsp;⊳ | res
 temporary | tmp
 |
-memory  '␣' | mem
+memory  | mem
 pointer | ptr
-reference:baloon: | ref
+reference :baloon: | ref
 |
 previous | prev
 current | cur
