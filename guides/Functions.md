@@ -4,29 +4,29 @@
   - :ok: translate, getfield
   - :x:  Translate, getField
 
-- Use underscores with longer words
-  - :ok: getfield, get_rounding
-  - :x:  get_field, getrounding
+- Combine short words without underscores
+  - :ok: getfield, readfile, sitonchair
+  - :x:  get_field, read_file, sit_on_chair
 
-- Use lowercase with underscores
-  - :ok: scale, affine_transformation
-  - :x:  Scale, affinetransformation
+- Combine longer names and difficult juxtapositions with underscores
+  - :ok: transform_transformation_form, push_utf16
+  - :x:  transformtransformationform, pushutf16
 
 - Prefer clarity to brevity  
-  - :ok: string_replace
-  - :x:  string_repl
+  - :ok: replace_strings
+  - :x:  repl_strings
   
 - Prefer specificity to generality  
-  - :ok: heat_building
-  - :x:  heat_it
+  - :ok: heatbuilding
+  - :x:  heatit
 
 - Prefer words to acronyms or abbreviations when they may confuse
   - :ok: two_line_elements
-  - :x: tle  
+  - :x: tles
 
 - Be consistent
-  - :ok: get_direction, get_angle
-  - :x:  get_direction, derive_angle
+  - :ok: setdirection!, setangle!
+  - :x:  setdirection!, angle_set!
   
 -----
 
