@@ -1,6 +1,6 @@
 # Word Choice
 
- to convey or to indicate              | choose to use   | do not choose
+ to convey, to indicate              | choose to use   | do not choose
 -------------------------------------|-----------------|------------
 | |
   the implementation of a given algorithm  |  method | algorithm
