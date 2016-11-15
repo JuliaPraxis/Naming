@@ -1,6 +1,6 @@
 # Word Choice
 
- when you want to convey             | choose to use   | and avoid
+ with this meaning              | choose to use   | and avoid
 -------------------------------------|-----------------|------------
 | |
  an implementation of the algorithm  |  method | algorithm
