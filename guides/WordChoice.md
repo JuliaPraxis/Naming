@@ -1,6 +1,6 @@
 # Word Choice
 
- this meaning, this referent              | choose to use   | do not choose
+ meaning this or indicating              | choose to use   | do not choose
 -------------------------------------|-----------------|------------
 | |
   implementation of a specific algorithm  |  method | algorithm
