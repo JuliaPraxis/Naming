@@ -32,13 +32,8 @@ easier to maintain, nicer for others to use and peruse, and it smooths later col
 [Short Forms](https://github.com/JuliaPraxis/Naming/blob/master/guides/ShortForms.md)
 
 
-## discovery
-
-[share your preference](https://github.com/JuliaPraxis/Naming/blob/master/guides/preference.md#share-your-preference)
-
-
 ----
    
-[ask a question](https://gitter.im/JuliaPraxis/Naming)
+[ask us or make a suggestion](https://gitter.im/JuliaPraxis/Naming)
 
 
