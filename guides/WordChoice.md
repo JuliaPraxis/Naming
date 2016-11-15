@@ -3,9 +3,9 @@
  to convey, to indicate              | choose to use   | do not use
 -------------------------------------|-----------------|------------
 | |
-  the implementation of a given algorithm  |  method | algorithm
-  the identification of a given algorithm  |  algorithm | method
+  the implementation of a specific algorithm  |  method | algorithm
+  the identification of a specific algorithm  |  algorithm | method
 | |
- the outcome of an evalution          |  result | solution
- the resolution of a problem          |  solution | result
+ the outcome of any evalution          |  result | solution
+ the resolution of any problem          |  solution | result
 | |
