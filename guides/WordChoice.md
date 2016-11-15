@@ -6,6 +6,6 @@
   the implementation of a specific algorithm  |  method | algorithm
   the identification of a specific algorithm  |  algorithm | method
 | |
- the solution to [resolution of] _    |  solution | result
+ the solution to , the resolution of   |  solution | result
  the result of computation         |  result | solution
  | |
