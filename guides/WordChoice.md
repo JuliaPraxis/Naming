@@ -1,6 +1,6 @@
 # Word Choice
 
- with this meaning              | choose to use   | and avoid
+ with this meaning              | choose to use   | do not choose
 -------------------------------------|-----------------|------------
 | |
  an implementation of the algorithm  |  method | algorithm
