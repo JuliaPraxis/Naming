@@ -9,6 +9,5 @@
  the solution to , the resolution of   |  solution | result
  the result of computation         |  result | solution
  | |
- an informal way to develop | a real approach | an approach
- accurate but informal hint | heuristic | approach
- the guiding perspective | approach | heuristic
+ informal advice for easily solving| heuristic | approach
+ a useful perspective on how to solve | approach | heuristic
