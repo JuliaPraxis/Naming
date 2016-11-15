@@ -1,7 +1,7 @@
 # Choosing and Using Names
 
 - The first time you see the function `facers(x)`, would you know what it does? _it is likely you would not_
-- The first time you see the function `facial_recognition(x)`, would you know what it does? _it is likely you would_
+- The first time you see the function `facial_recognition(x)`, would you know what it does? _likely yes_
 
 It is easier to understand what `facial_recognition` does than it is to understand what `facer` does.   
 These brief guides collect information on best practices and sound approaches using names with Julia.  
