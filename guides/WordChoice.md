@@ -1,11 +1,11 @@
 # Word Choice
 
-prefer | over      | intending
--------|-----------|------------------------------------------
+ when you want to convey             | choose to use   | and avoid
+-------------------------------------|-----------------|------------
 | |
-method | algorithm | an implementation of the algorithm
-algorithm | method | an identification of the algorithm
+ an implementation of the algorithm  |  method | algorithm
+ an identification of the algorithm  |  algorithm | method
 | |
-result | solution | the outcome of an evalution
-solution | result | the resolution of a problem
+ the outcome of an evalution          |  result | solution
+ the resolution of a problem          |  solution | result
 | |
