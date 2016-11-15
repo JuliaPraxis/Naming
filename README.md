@@ -37,7 +37,7 @@ easier to maintain, nicer for others to use and peruse, and it smooths later col
 
 ----
    
-   [ask a question](https://gitter.im/JuliaPraxis/Naming)
+   [ask a question](https://gitter.im/JuliaPraxis/Naming)  
    [raise an issue](https://github.com/JuliaPraxis/Naming/issues)
 
 
