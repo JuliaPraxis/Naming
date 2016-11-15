@@ -1,10 +1,10 @@
 # Word Choice
 
- meaning this or indicating              | choose to use   | do not choose
+ to convey or to indicate              | choose to use   | do not choose
 -------------------------------------|-----------------|------------
 | |
-  implementation of a specific algorithm  |  method | algorithm
-  a specific algorithm is identified  |  algorithm | method
+  the implementation of a given algorithm  |  method | algorithm
+  the identification of a given algorithm  |  algorithm | method
 | |
  the outcome of an evalution          |  result | solution
  the resolution of a problem          |  solution | result
