@@ -7,5 +7,5 @@
   the identification of a specific algorithm  |  algorithm | method
 | |
  the solution to [resolution of] _    |  solution | result
- the result of computation [calculation]          |  result | solution
+ the result of computation         |  result | solution
  | |
