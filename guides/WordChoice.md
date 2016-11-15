@@ -1,6 +1,6 @@
 # Word Choice
 
- to convey, to indicate              | choose to use   | do not use
+ to convey, to indicate              | choose to use   | look left not down
 -------------------------------------|-----------------|------------
 | |
   the implementation of a specific algorithm  |  method | algorithm
