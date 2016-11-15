@@ -9,5 +9,5 @@
  the solution to , the resolution of   |  solution | result
  the result of computation         |  result | solution
  | |
- how to solve ____ efficiently | heuristic | approach
+ an informal, usable hint for solving something | heuristic | approach
  the guiding perspective | approach | heuristic
