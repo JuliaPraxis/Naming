@@ -70,7 +70,7 @@ memory  | mem
 pointer | ptr
 reference | ref
 |
-prev∥ious | prev
+previous | prev
 current | cur
 predecessor | pred
 successor | succ
