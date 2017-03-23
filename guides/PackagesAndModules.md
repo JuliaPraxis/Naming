@@ -32,7 +32,7 @@
   write the acronym in uppercase then use titlecase
   - :ok:  CSSParser, HTMLBodyValidator
   - :x:  CSSparser, HTMLbodyValidator   
-  - *note* the Praxis group would prefer the manual allow titlecase: CssParser, HtmlBodyValidator
+  - **note:** the Praxis group would prefer the manual allow titlecase: CssParser, HtmlBodyValidator
  ------
 
     
