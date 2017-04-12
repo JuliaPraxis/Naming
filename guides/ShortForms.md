@@ -89,70 +89,70 @@ database | db
 
 meaning| term
 -----|-------
-|
+ | 
 absolute | abs 
 alternate | alt
 array | arr
-|
+ | 
 calculate | calc
 character | chr
 coefficient | coef
-|
+ | 
 current | cur
 database | db
 definition | def
-|
+ | 
 denominator | den
 direction | dir
 directory | dir
-|
+ | 
 error | err
 evaluate | eval
 expression | expr
-|
+ | 
 equation | eqn
 forward | fwd
 imaginary | im
-|
+ | 
 index  | idx
 iteratator  | iter
 initialize | init
-|
+ | 
 inverse | inv
 linear | lin
 matrix | mat
-|
+ | 
 maximum | max
 memory | mem
 message | msg
-|
+ | 
 middle | mid
 minimum | min
 negative | neg
-|
+ | 
 nonzero | nz
 numerator | num
 object | obj
-|
+ | 
 pointer | ptr
 polynomial | poly
 position | pos
-|
+ | 
 positive | pos
 predecessor | pred
 previous | prev
-|
+ | 
 real | re
 reference | ref
 relative | rel
-|
+ | 
 result | res
 reverse | rev
 string | str
-|
+ | 
 successor | succ
 temporary | tmp
 tolerance | tol
-|
+ | 
 value | val
 vector | vec
