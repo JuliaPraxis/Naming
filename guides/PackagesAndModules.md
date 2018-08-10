@@ -34,9 +34,4 @@
   - :x:  CSSparser, HTMLbodyValidator   
   - **note:** the Praxis group would prefer the manual allow titlecase: CssParser, HtmlBodyValidator
  ------
-
-    
-Please see [the manual](http://docs.julialang.org/en/latest/manual/packages/#guidelines-for-naming-a-package).
-
-
-  
+ 
