@@ -79,6 +79,7 @@
 ## For Reference
 
 - The User Manual
-
-  - [Package Names](http://docs.julialang.org/en/latest/manual/packages/#guidelines-for-naming-a-package)
-  - [Function Names](http://docs.julialang.org/en/latest/manual/style-guide/#use-naming-conventions-consistent-with-julia-s-base)
+  - [Variable Names](https://docs.julialang.org/en/v1/manual/variables/#Stylistic-Conventions-1)
+  - [Style Guide](https://docs.julialang.org/en/v1/manual/style-guide/)
+  - [Function Names](https://docs.julialang.org/en/v1/manual/style-guide/#Use-naming-conventions-consistent-with-Julia-base/-1)
+  - [Package Names](https://docs.julialang.org/en/v0.6/manual/packages/#Guidelines-for-naming-a-package-1)
