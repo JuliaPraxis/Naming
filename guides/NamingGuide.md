@@ -82,4 +82,4 @@
   - [Variable Names](https://docs.julialang.org/en/v1/manual/variables/#Stylistic-Conventions-1)
   - [Style Guide](https://docs.julialang.org/en/v1/manual/style-guide/)
   - [Function Names](https://docs.julialang.org/en/v1/manual/style-guide/#Use-naming-conventions-consistent-with-Julia-base/-1)
-  - [Package Names](https://docs.julialang.org/en/v0.6/manual/packages/#Guidelines-for-naming-a-package-1)
+  - [Package Names](https://julialang.github.io/Pkg.jl/stable/creating-packages/#Package-naming-guidelines-1)
