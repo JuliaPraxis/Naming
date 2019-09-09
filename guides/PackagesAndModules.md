@@ -1,5 +1,11 @@
 # Naming Packages and Modules
 
+----
+
+_Julia package names end with `.jl`.  To highlight the reasoning in these examples, that suffix is not shown._
+
+----
+
 - Use titlecase
   - :ok: CategoryTheory
   - :x:  categorytheory, categoryTheory
@@ -29,9 +35,11 @@
   - :x: ParseHypertextMarkupLanguage, GML
 
 - For package, module or type names with an initial acronym  
-  write the acronym in uppercase then use titlecase
-  - :ok:  CSSParser, HTMLBodyValidator
+  either write the acronym in uppercase then use titlecase
+  or use titlecase throughout
+  - :ok:  CSSParser, CssParser
+  - :ok:  HTMLBodyValidator, HtmlBodyValidator
   - :x:  CSSparser, HTMLbodyValidator   
-  - **note:** the Praxis group would prefer the manual allow titlecase: CssParser, HtmlBodyValidator
+  
  ------
  
