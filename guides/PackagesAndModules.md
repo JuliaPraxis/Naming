@@ -39,9 +39,9 @@ _Julia package names end with `.jl`.  To  focus on the guidelines examplefied, t
 - For package, module or type names with an initial acronym  
   either write the acronym in uppercase then use camelcase
   or use camelcase throughout
-  - :ok:  CSSParser, CssParser
+  - :ok:  CssParser, CSSParser
   - :ok:  HTMLBodyValidator, HtmlBodyValidator
-  - :x:  CSSparser, HTMLbodyValidator   
+  - :x:   Cssparser, HTMLbodyValidator   
   
  ------
  
