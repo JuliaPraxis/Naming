@@ -40,8 +40,8 @@ _Julia package names end with `.jl`.  To  focus on the guidelines examplefied, t
   either write the acronym in uppercase then use camelcase
   or use camelcase throughout
   - :ok:  CssParser, CSSParser
-  - :ok:  HTMLBodyValidator, HtmlBodyValidator
-  - :x:   Cssparser, HTMLbodyValidator   
+  - :ok:  HtmlValidator, HTMLValidator
+  - :x:   Cssparser, HTMLvalidator   
   
  ------
  
