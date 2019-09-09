@@ -2,7 +2,7 @@
 
 ----
 
-_Julia package names end with `.jl`.  To highlight the reasoning in these examples, that suffix is not shown._
+_Julia package names end with `.jl`.  To  focus on the guidelines examplefied, that suffix is not shown below._
 
 ----
 
