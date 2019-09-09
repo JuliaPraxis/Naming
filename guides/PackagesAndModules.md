@@ -4,11 +4,11 @@
 
 _Julia package names end with `.jl`.  To  focus on the guidelines examplefied, that suffix is not shown below._
 
-#### CaptializingIntialLetters is called using `titlecase` or `camelcase`.
+#### CaptializingIntialLetters is referred to as `camelcase` or as `titlecase`.
 
 ----
 
-- Use titlecase
+- Use camelcase
   - :ok: CategoryTheory
   - :x:  categorytheory, categoryTheory
   
@@ -37,8 +37,8 @@ _Julia package names end with `.jl`.  To  focus on the guidelines examplefied, t
   - :x: ParseHypertextMarkupLanguage, GML
 
 - For package, module or type names with an initial acronym  
-  either write the acronym in uppercase then use titlecase
-  or use titlecase throughout
+  either write the acronym in uppercase then use camelcase
+  or use camelcase throughout
   - :ok:  CSSParser, CssParser
   - :ok:  HTMLBodyValidator, HtmlBodyValidator
   - :x:  CSSparser, HTMLbodyValidator   
