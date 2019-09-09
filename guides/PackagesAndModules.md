@@ -4,6 +4,8 @@
 
 _Julia package names end with `.jl`.  To  focus on the guidelines examplefied, that suffix is not shown below._
 
+#### CaptializingIntialLetters is called using `titlecase` or `camelcase`.
+
 ----
 
 - Use titlecase
